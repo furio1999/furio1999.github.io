@@ -4,7 +4,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 <p align="center">
 <img
-  src="/_images/MonteRomano.jpg"
+  src="images/MonteRomano.jpg"
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
