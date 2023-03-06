@@ -6,7 +6,6 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 <img
   src="_images/MonteRomano.jpg"
   alt="Alt text"
-  <!--title="Optional title"-->
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 
