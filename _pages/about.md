@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Fulvio Sanguigni"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
