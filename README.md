@@ -2,6 +2,12 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
+<img
+  src="/_images/MonteRomano.jpg"
+  alt="Alt text"
+  <!--title="Optional title"-->
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 # Instructions
