@@ -12,7 +12,7 @@ redirect_from:
   src="images/MonteRomano.jpg"
   alt="Alt text"
   width=100%
-  height=100%
+  height=100%>
 </p>
 
 style="display: inline-block; margin: 0 auto; max-width: 300px">
