@@ -47,13 +47,17 @@ redirect_from:
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.p1 {
+  font-family: "Brush Script MT", cursive;
+}
 </style>
 </head>
 <body>
 
 <div class="container">
   <img src="images/MonteRomano.jpg" alt="Snow" style="width:100%;">
-  <div class="top-left">Instinct choices,<br>Rationality follows</div>
+  <div class="top-left"><p class="p1"> Instinct choices,<br>Rationality follows </p></div>
 </div>
 
 </body>
