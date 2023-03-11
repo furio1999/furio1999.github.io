@@ -7,14 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-<img
-  src="images/MonteRomano.jpg"
-  alt="Alt text"
-  width="100%"
-  height="100%">
-</p>
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,8 +25,9 @@ redirect_from:
 
 .top-left {
   position: absolute;
-  top: 8px;
-  left: 16px;
+  top: 40%;
+  left: 10%;
+  transform: translate(-50%, -50%)
 }
 
 .top-right {
@@ -61,11 +54,7 @@ redirect_from:
 
 <div class="container">
   <img src="images/MonteRomano.jpg" alt="Snow" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
+  <div class="top-left">Instinct choices,<br>Rationality follows</div>
 </div>
 
 </body>
