@@ -15,7 +15,6 @@ redirect_from:
   height="100%">
 </p>
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,9 +58,6 @@ redirect_from:
 </style>
 </head>
 <body>
-
-<h2>Image Text</h2>
-<p>How to place text over an image:</p>
 
 <div class="container">
   <img src="images/MonteRomano.jpg" alt="Snow" style="width:100%;">
