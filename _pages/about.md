@@ -26,8 +26,7 @@ redirect_from:
 .top-left {
   position: absolute;
   top: 40%;
-  left: 10%;
-  transform: translate(-50%, -50%)
+  left: 30%;
 }
 
 .top-right {
