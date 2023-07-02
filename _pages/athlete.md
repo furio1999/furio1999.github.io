@@ -1,6 +1,7 @@
 ---
+layout: page
 permalink: /athlete
-author_profile: False
+author_profile: False # how to have no side column and full image page?
 ---
 
 <html>
