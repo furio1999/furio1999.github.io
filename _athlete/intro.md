@@ -1,5 +1,5 @@
 ---
-permalink: /athlete
+permalink: /athlete/intro
 ---
 
 <html>
