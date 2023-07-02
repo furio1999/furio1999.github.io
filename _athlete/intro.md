@@ -1,5 +1,6 @@
 ---
-permalink: /athlete/intro
+title: My athletic journey
+permalink: /athlete
 ---
 
 <html>
