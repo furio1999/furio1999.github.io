@@ -185,8 +185,11 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
     permalink: /:collection/:path/
+  athlete:
+    output: true
+    permalink: /:collection/:path/ # new
 
 
 # Defaults
