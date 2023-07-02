@@ -1,6 +1,6 @@
 ---
-title: My athletic journey
 permalink: /athlete
+author_profile: true
 ---
 
 <html>
