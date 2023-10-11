@@ -4,12 +4,6 @@ permalink: /athlete/
 author_profile: False # how to have no side column and full image page?
 ---
 
-**This is my Athlete Page**
-
-=========================
-
-Image of me on Monte Romano
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,10 +53,14 @@ Image of me on Monte Romano
 <body>
 
 <div class="container">
-  <img src="images/MonteRomano.jpg" alt="Snow" style="width:100%;">
+  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:100%;">
   <div class="top-left"><p class="p1"> Instinct choices,<br>Rationality follows </p></div>
 </div>
 
 </body>
 </html> 
+
+**This is my Athlete Page**
+
+Image of me on Monte Romano
 
