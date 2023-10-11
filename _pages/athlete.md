@@ -46,14 +46,14 @@ author_profile: False # how to have no side column and full image page?
 }
 
 .p1 {
-  font-family: "Brush Script MT", cursive;
+  font-family: "Brush Script MT", cursive; font-size: 20px;
 }
 </style>
 </head>
 <body>
 
 <div class="container">
-  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:100%;">
+  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:50%; height:50%">
   <div class="top-left"><p class="p1"> Instinct choices,<br>Rationality follows </p></div>
 </div>
 
