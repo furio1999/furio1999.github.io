@@ -46,7 +46,7 @@ author_profile: True # how to have no side column and full image page?
 }
 
 .p1 {
-  font-family: "Brush Script MT", cursive; font-size: 20px;
+  font-family: "Brush Script MT", cursive; font-size: 25px;
 }
 </style>
 </head>
