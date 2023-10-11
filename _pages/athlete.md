@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /athlete/
-author_profile: False # how to have no side column and full image page?
+author_profile: True # how to have no side column and full image page?
 ---
 
 <html>
