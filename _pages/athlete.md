@@ -53,14 +53,15 @@ author_profile: True # how to have no side column and full image page?
 <body>
 
 <div class="container">
-  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:50%; height:50%">
+  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:80%; height:80%">
   <div class="top-left"><p class="p1"> Instinct choices,<br>Rationality follows </p></div>
 </div>
 
 </body>
 </html> 
 
-**This is my Athlete Page**
+**A taekwondoka turned endurance athlete**
 
-Image of me on Monte Romano
+I start this long sport journey thanks to my swimming classes in my childohood, together with what I consider the first milestone of my life: my taekwondo learning path. I joined several tournaments, met a lot of friends and expecially, I started to understand hiw my body works, and changing my introvert nature.
+
 
