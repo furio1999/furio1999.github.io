@@ -69,5 +69,6 @@ Actually I am competing in amatorial granfondos. The goal is to get closer to pr
 My athletic and engineering achievments are not only selfish results, but I want to spread information and consciusness about life as a student-athlete, both for future students and giving visibility to current success stories. 
 
 My results:
+4th at CNU
 
 
