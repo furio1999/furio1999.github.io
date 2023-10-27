@@ -11,7 +11,7 @@ Hi! I am Fulvio Sanguigni! I am a Phd student at University of Modena and Reggio
 My work is focused on vision and language technologies.
 You can find me at AImageLab.
 
-I have a background in Artificial Intelligence and Robotics from Sapienza University of Rome. I have visited European Space Agency, @F-Lab.
+I have a background in Artificial Intelligence and Robotics from Sapienza University of Rome. I have visited European Space Agency, $$/Phi$$-Lab.
 I graduated with a thesis on Diffusion Models for Earth Observation Data, supervised by Irene Amerini (Sapienza) and co-supervised by Bertrand Le Saux (@F-Lab).
 
 My research interests lie in the field of generative models (and more in general, large language and vision models). I am currently exploring also 3D deep learning, human pose estimation and domain adaptation strategies.
