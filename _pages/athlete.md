@@ -60,7 +60,7 @@ author_profile: True # how to have no side column and full image page?
 </body>
 </html> 
 
-**A taekwondoka turned endurance athlete**
+## A taekwondoka turned endurance athlete
 
 I started this long sport journey thanks to my swimming classes in my childohood, together with what I consider the first milestone of my life: my taekwondo learning path. I joined several tournaments, met a lot of friends and expecially, I started to understand how my body works, and changing my introvert nature. The dark belt (first DAN) is one of the last things of that experience, and I still feel today a strong pride and emotions when I wear it. I will come back one day.
 
@@ -68,12 +68,12 @@ After two parenthesis in tennis, I started competing again in mtb in 2017-2018, 
 Actually I am competing in amatorial granfondos. The goal is to get closer to prefessionial performances. My long term project, instead, is to represent Italy in an international competition. And my biggest dream is to do it together with my engineering life.
 My athletic and engineering achievments are not only selfish results, but I want to spread information and consciusness about life as a student-athlete, both for future students and giving visibility to current success stories. 
 
-***My results***
+## My results highlights
 
-* Cycling: 4th at cycling National University Championships (CNU) - Jun 2023
+* Cycling: 4th at cycling **National University Championships (CNU)** - Jun 2023
 * Cycling: 3rd at cycling uphill time trial (Gorga, Italy) - Aug 2022
 * Running: 8th at memorial Fava (Roccasecca, Italy) - May 2022
-* Running: 1st at Pasqualonga (Terracina, Italy) - Apr 2019
+* Running: **1st** at Pasqualonga (Terracina, Italy) - Apr 2019
 
 
 
