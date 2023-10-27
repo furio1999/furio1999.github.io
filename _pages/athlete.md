@@ -66,12 +66,12 @@ I started this long sport journey thanks to my swimming classes in my childohood
 
 After two parenthesis in tennis, I started competing again in mtb in 2017-2018, running (2018-present), and road cycling (2021-present). 
 Actually I am competing in amatorial granfondos. The goal is to get closer to prefessionial performances. My long term project, instead, is to represent Italy in an international competition. And my biggest dream is to do it together with my engineering life.
-My athletic and engineering achievments are not only selfish results, but I want to spread information and consciusness about life as a student-athlete, both for future students and giving visibility to current success stories. 
+My athletic and engineering achievments are not only selfish results, but I want to spread information and consciousness about life as a student-athlete, both for future students and giving visibility to current success stories. 
 
 ## My results highlights
 
 * Cycling: 4th at cycling **National University Championships (CNU)** - Jun 2023
-* Cycling: 3rd at cycling uphill time trial (Gorga, Italy) - Aug 2022
+* Cycling: 3rd at local cycling uphill time trial (Gorga, Italy) - Aug 2022
 * Running: 8th at memorial Fava (Roccasecca, Italy) - May 2022
 * Running: **1st** at Pasqualonga (Terracina, Italy) - Apr 2019
 
