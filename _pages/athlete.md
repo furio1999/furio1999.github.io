@@ -53,7 +53,7 @@ author_profile: True # how to have no side column and full image page?
 <body>
 
 <div class="container">
-  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:100%; height:70%">
+  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:100%; height:50%">
   <div class="top-left"><p class="p1"> Instinct choices,<br>Rationality follows </p></div>
 </div>
 
