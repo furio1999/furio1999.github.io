@@ -53,7 +53,7 @@ author_profile: True # how to have no side column and full image page?
 <body>
 
 <div class="container">
-  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:80%; height:80%">
+  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:100%; height:70%">
   <div class="top-left"><p class="p1"> Instinct choices,<br>Rationality follows </p></div>
 </div>
 
@@ -68,7 +68,12 @@ After two parenthesis in tennis, I started competing again in mtb in 2017-2018, 
 Actually I am competing in amatorial granfondos. The goal is to get closer to prefessionial performances. My long term project, instead, is to represent Italy in an international competition. And my biggest dream is to do it together with my engineering life.
 My athletic and engineering achievments are not only selfish results, but I want to spread information and consciusness about life as a student-athlete, both for future students and giving visibility to current success stories. 
 
-My results:
-4th at CNU
+***My results***
+
+* Cycling: 4th at cycling National University Championships (CNU) - Jun 2023
+* Cycling: 3rd at cycling uphill time trial (Gorga, Italy) - Aug 2022
+* Running: 8th at memorial Fava (Roccasecca, Italy) - May 2022
+* Running: 1st at Pasqualonga (Terracina, Italy) - Apr 2019
+
 
 
