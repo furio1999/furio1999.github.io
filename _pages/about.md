@@ -16,4 +16,4 @@ I graduated with a thesis on Diffusion Models for Earth Observation Data, superv
 My research interests lie in the field of generative models (and more in general, large language and vision models). I am currently exploring also 3D deep learning, human pose estimation and domain adaptation strategies.
 
 In the meanwhile, I delve into sports firstly for passion, secondly for the remarkable benefits of living a student-athlete life and finally for sake of competition.
-You can find more in my athlete page and in several blog posts.
+You can find more in my [athlete](https://furio1999.github.io//athlete/) page and in several blog posts.

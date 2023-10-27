@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Fulvio Sanguigni"
   avatar           : "Esa_profile.jpg"
-  bio              : "Master student at Sapienza University and Visiting Researcher at Esa Φ-lab"
-  location         : "Frascati, Rome"
+  bio              : "Phd student at University of Modena and Reggio Emilia"
+  location         : "Modena, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "FulvioSanguigni"
   vine             :
   weibo            :
   xing             :
