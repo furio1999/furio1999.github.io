@@ -70,7 +70,7 @@ My athletic and engineering achievments are not only selfish results, but I want
 
 ## My results highlights
 
-* Cycling: 4th at cycling **National University Championships (CNU)** - Jun 2023
+* Cycling: **4th** at cycling **National University Championships (CNU)** - Jun 2023 ([official results](files/CLASSIFICA-CNU.pdf))
 * Cycling: 3rd at local cycling uphill time trial (Gorga, Italy) - Aug 2022
 * Running: 8th at memorial Fava (Roccasecca, Italy) - May 2022
 * Running: **1st** at Pasqualonga (Terracina, Italy) - Apr 2019
