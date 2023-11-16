@@ -72,8 +72,8 @@ My athletic and engineering achievments are not only selfish results, but I want
 
 * Cycling: **4th** at cycling **National University Championships (CNU)** - Jun 2023 ([official results](files/CLASSIFICA-CNU.pdf))
 * Cycling: 3rd at local cycling uphill time trial (Gorga, Italy) - Aug 2022
-* Running: 8th at memorial Fava (Roccasecca, Italy) - May 2022
-* Running: **1st** at Pasqualonga (Terracina, Italy) - Apr 2019
+* Running: 6th at memorial Fava (Roccasecca, Italy) - May 2022 ([results](https://www.garepodistichelazio.it/classifica-Memorial-Antonio-Fava-2022-TopSocieta))
+* Running: **1st** at Pasqualonga (Terracina, Italy) - Apr 2019 ([results](https://www.uisp.it/latina2/pagina/classifica-2-pasqualonga-la-fiora-terracina))
 
 
 
