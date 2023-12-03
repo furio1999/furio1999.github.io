@@ -1,5 +1,6 @@
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-readers do not read off random characters that represent icons */
+readers do not read off random characters that represent icons 
+TODO: STRAVA ICON variables, shims, */
 
 .#{$fa-css-prefix}-500px:before { content: fa-content($fa-var-500px); }
 .#{$fa-css-prefix}-accessible-icon:before { content: fa-content($fa-var-accessible-icon); }
@@ -1054,6 +1055,7 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-surprise:before { content: fa-content($fa-var-surprise); }
 .#{$fa-css-prefix}-swatchbook:before { content: fa-content($fa-var-swatchbook); }
 .#{$fa-css-prefix}-swimmer:before { content: fa-content($fa-var-swimmer); }
+.#{$fa-css-prefix}-strava:before { content: fa-content($fa-var-strava); }
 .#{$fa-css-prefix}-swimming-pool:before { content: fa-content($fa-var-swimming-pool); }
 .#{$fa-css-prefix}-synagogue:before { content: fa-content($fa-var-synagogue); }
 .#{$fa-css-prefix}-sync:before { content: fa-content($fa-var-sync); }

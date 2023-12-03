@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# TODO Strava
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Fulvio Sanguigni ~ Engineer and Athlete"
@@ -86,7 +88,7 @@ author:
   location         : "Modena, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tSpzMUEAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +101,7 @@ author:
   github           : "furio1999"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "_furio19_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "furio19"
@@ -108,6 +110,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
+  strava           :
   tumblr           :
   twitter          : "FulvioSanguigni"
   vine             :
