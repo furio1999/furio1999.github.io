@@ -21,7 +21,7 @@ author_profile: true
 
  _Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, and Bertrand Le Saux_, 
 
- [BIDS23](), Vienna, Nov 2023
+ Big Data From Space, Vienna, Nov 2023
 
 \[ [arxiv](https://arxiv.org/abs/2311.06222) / [pdf](https://arxiv.org/pdf/2311.06222)  / [code](https://github.com/furio1999/EO_Diffusion) \]
 
