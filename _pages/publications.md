@@ -30,7 +30,7 @@ author_profile: true
   }
 
   .text {
-    font-size: 12px;
+    font-size: 18px;
     padding-left: 15px;
   }
   .head{
