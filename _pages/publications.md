@@ -50,7 +50,7 @@ author_profile: true
 <html>
 <body>
     <div class="container">
-        <div class="image" align="center"><img src="../images/slides_cr.png" class="img-fluid" alt="Manuscript Thumbnail" style="max-width: 100%; max-height: 130px;"></div>
+        <div class="image" align="center"><img src="../images/slides_cr.png" class="img-fluid" alt="Manuscript Thumbnail" style="max-width: 100%; max-height: 160px;"></div>
         <div class="text"><h4>Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection</h4>
         <h6 style="color:red"> (oral) </h6>
         <h6> <i> Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux </i> </h6>
