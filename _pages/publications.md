@@ -35,8 +35,8 @@ author_profile: true
     padding-top: 10px;
   }
   .head{
-    padding-top:10px
-    padding-bottom:10px
+    padding-top:5px
+    padding-bottom:5px
     margin-top:5px
     margin-bottom:5px
   }
