@@ -17,8 +17,8 @@ author_profile: true
 Idea 2: use img | block markdown -->
 
 **Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**
-<html><body>
-      <div class="image" align="center"><img src="../images/slides_cr.png" class="img-fluid" alt="Manuscript Thumbnail" style="max-width: 100%; max-height: 200px;"></div> </body></html>
+<!-- <html><body>
+      <div class="image" align="center"><img src="../images/slides_cr.png" class="img-fluid" alt="Manuscript Thumbnail" style="max-width: 100%; max-height: 200px;"></div> </body></html> -->
 
 <span style="color:red;"> (oral) </span>
 
