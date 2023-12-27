@@ -30,21 +30,10 @@ author_profile: true
   }
 
   .text {
-    font-size: 15px;
+    font-size: 10px;
     padding-left: 15px;
-  }
-
-  h4 {
-      font-size: 1.5em;
-      background-color: #ccc;
-      margin: 5px;
-      padding: 5px;
-  }
-  h6 {
-      font-size: 1.5em;
-      background-color: #ccc;
-      margin: 5px;
-      padding: 5px;
+    padding: 5px;
+    margin: 5px;
   }
   </style>
 </html>
