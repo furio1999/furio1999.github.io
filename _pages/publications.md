@@ -30,11 +30,16 @@ author_profile: true
   }
 
   .text {
-    font-size: 10px;
+    font-size: 12px;
     padding-left: 15px;
-    padding: 5px;
-    margin: 5px;
   }
+  .head{
+    padding-top:10px
+    padding-bottom:10px
+    margin-top:5px
+    margin-bottom:5px
+  }
+
   </style>
 </html>
 
@@ -45,11 +50,11 @@ author_profile: true
 <html>
 <body>
     <div class="container">
-        <div class="image" align="center"><img src="../images/slides_cr.png" class="img-fluid" alt="Manuscript Thumbnail" style="max-width: 100%; max-height: 200px;"></div>
+        <div class="image" align="center"><img src="../images/slides_cr.png" class="img-fluid" alt="Manuscript Thumbnail" style="max-width: 80%; max-height: 100px;"></div>
         <div class="text"><h4>Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection</h4>
         <h6 style="color:red"> (oral) </h6>
-        <h6 class="fw-light"> <i> Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux </i> </h6>
-        <h6 class="fw-light"> Big Data from Space (BiDS), Nov 2023 </h6> <h6></h6>
+        <p> <i> Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux </i> </p>
+        <h6> Big Data from Space (BiDS), Nov 2023 </h6>
         <p><a class="text-decoration-none site-link" href="https://arxiv.org/abs/2311.06222">[Arxiv]</a> / <a class="text-decoration-none site-link" href="https://arxiv.org/pdf/2311.06222">[PDF]</a> / <a class="text-decoration-none site-link" href="https://github.com/furio1999/EO_Diffusion">[Code]</a></p></div>
     </div>
     <hr class="col-12">
