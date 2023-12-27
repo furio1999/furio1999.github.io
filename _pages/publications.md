@@ -4,13 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 <!-- https://codedamn.com/news/frontend/how-to-put-image-and-text-side-by-side-in-html -->
-
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
-
 {% include base_path %}
 
 <html>
@@ -44,10 +41,9 @@ author_profile: true
   </style>
 </html>
 
-## 2023
-
 <!-- 2023-DM_usecases -->
 <!-- TODO: img container ok, img height smaller; Bigger text, same block height, smaller spaces -->
+## 2023
 <html>
 <body>
     <div class="container">
