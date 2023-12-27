@@ -24,15 +24,28 @@ author_profile: true
   justify-content: center
 }
 
-.img {
-  max-width: 100%;
-  max-height:100%;
-}
+  .img {
+    max-width: 100%;
+    max-height:100%;
+  }
 
-.text {
-  font-size: 20px;
-  padding-left: 20px;
-}
+  .text {
+    font-size: 15px;
+    padding-left: 15px;
+  }
+
+  h4 {
+      font-size: 1.5em;
+      background-color: #ccc;
+      margin: 5px;
+      padding: 5px;
+  }
+  h6 {
+      font-size: 1.5em;
+      background-color: #ccc;
+      margin: 5px;
+      padding: 5px;
+  }
   </style>
 </html>
 
