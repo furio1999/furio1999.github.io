@@ -1,13 +1,11 @@
 ---
-title: 'Phd Application'
+title: 'Phd Kickstart: My advice and my resources'
 date: 2024-03-21
 permalink: /posts/2024/03/Phd_Application/
 tags:
   - Phd Life
   - Research Advice
 ---
-
-# Phd Kickstart: My advice and my resources
 
 Before the start, I introduce myself. I am Fulvio Sanguigni from Italy, and I have just started a Phd at University of Modena. I am an athlete as well, and I have some dreams to realize. But not today. Today we will talk about the Phd. Today it’s time to start giving back, since I received a lot in these years.
 This is my first blog post. This is my little space in the internet where I will tell my story and share my path towards my goals; this is my little corner where I will welcome you and let appreciate the craving path towards excellence, in all the fields where I play. I am not pretending to be a master at something. But I am working to be that in the future. Let’s start the journey!
