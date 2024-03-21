@@ -141,7 +141,7 @@ You go safe with stanford lectures. From the classic CS229 to the more advanced 
 
 ## Best sources for Phd and Research advice
 
-[A Happy PhD | Journaling for the doctorate (I): Types and benefits](https://ahappyphd.org/posts/journaling-benefits/?utm_source=convertkit&utm_medium=email&utm_campaign=Broadcast%20-%2012840330): A specific webpage of an (ex) Phd student, with a lot of structured guidelines both for your well-being and for your productivity. 
+[A Happy PhD](https://ahappyphd.org/posts/journaling-benefits/?utm_source=convertkit&utm_medium=email&utm_campaign=Broadcast%20-%2012840330): A specific webpage of an (ex) Phd student, with a lot of structured guidelines both for your well-being and for your productivity. 
 
 [Andrej Kharpathy](https://karpathy.ai/): do I really need to introduce him? Career advice on his blog + a TON of technical material on youtube
 
@@ -155,12 +155,12 @@ You go safe with stanford lectures. From the classic CS229 to the more advanced 
 
 **Top 5 articles:** 
 [Creativity in Academia — Why you are more creative than you think (timdettmers.com)](https://timdettmers.com/2019/09/03/creativity-in-academia/) Inspiring. No more to add. Just read it. Tim Dettmers is a guarantee
-[Lessons learned from a PhD in Machine Learning | by Vincent Fortuin | Medium](https://medium.com/@vincefort/phd-lessons-part1-8879ae29b8e6) 3 Phd series articles from [Vincent Fortuin](https://fortuin.github.io/) (Now at Helmotz AI). A lot of information out there, very detailed and well explained!
+[Lessons learned from a PhD in Machine Learning by Vincent Fortuin](https://medium.com/@vincefort/phd-lessons-part1-8879ae29b8e6) 3 Phd series articles from [Vincent Fortuin](https://fortuin.github.io/) (Now at Helmotz AI). A lot of information out there, very detailed and well explained!
 [An Opinionated Guide to ML Research (joschu.net)](http://joschu.net/blog/opinionated-guide-ml-research.html) Old But Gold —> read also the other 2 linked in this article. From Richard Hamming ([You and Your Research (virginia.edu)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)) and from Michael Nielsen ([Principles of Effective Research – Michael Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)). No need to present them. 
 
-(Bonus): [Mental Health and Academia. | Home (ricma.netlify.app)](https://ricma.netlify.app/blog/mental-health/) By Riccardo Marin, Tuebingen
+(Bonus): [Mental Health and Academia](https://ricma.netlify.app/blog/mental-health/) By Riccardo Marin, Tuebingen
 
-(Bonus 2): [How I Got a Job at Google DeepMind (No ML Degree) | Medium](https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de) from Aleksea Gordic. A source of hope and inspiration, expecially because it shows that hard work, drive and curiosity lead to unexpected and amazing results. And my goodness, Aleksa worked his ass off to get there, no doubt!
+(Bonus 2): [How I Got a Job at Google DeepMind (No ML Degree)](https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de) from Aleksea Gordic. A source of hope and inspiration, expecially because it shows that hard work, drive and curiosity lead to unexpected and amazing results. And my goodness, Aleksa worked his ass off to get there, no doubt!
 
 ## Best Newsletters (Goal: keep up with research literature)
 
@@ -173,4 +173,4 @@ You go safe with stanford lectures. From the classic CS229 to the more advanced 
 
 - **Youtube**: [Andrew Kharpathy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQ7ZXF2v2EAxXwQfEDHYUTBDkQFnoECCEQAQ&url=https%3A%2F%2Fwww.youtube.com%2F%40andrejkarpathy&usg=AOvVaw2q36cJVW8QSzyDh5s9o1oR&opi=89978449), [Yannick](https://www.ykilcher.com/), [Aleksa Gordic](https://gordicaleksa.com/), [ML street talk](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwil_b3i2v2EAxXtS_EDHY7XBk8QFnoECBYQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fc%2Fmachinelearningstreettalk&usg=AOvVaw1Qt83JLxNbU12B-sOATtSf&opi=89978449)
 - **Slack**: conferences and reading groups on slack (like [NeuReps](https://www.neurreps.org/community) from NIPS or [LoGG](https://portal.valencelabs.com/logg))
-- **Paper Reviews**:  [Andrey Lukyanenko's personal site – Andrey Lukyanenko (andlukyane.com)](https://andlukyane.com/blog/) + [Davis Summarizes Papers | Davis Blalock | Substack](https://dblalock.substack.com/)
+- **Paper Reviews**:  [Andrey Lukyanenko's personal site – Andrey Lukyanenko (andlukyane.com)](https://andlukyane.com/blog/) + [Davis Summarizes Papers](https://dblalock.substack.com/)
