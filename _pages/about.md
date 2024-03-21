@@ -10,10 +10,9 @@ redirect_from:
 Hi! I am Fulvio Sanguigni! I am an [Italian National Phd](https://www.phd-ai.it/en/359-2/) student, part of [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at [University of Modena and Reggio Emilia](https://www.unimore.it/), supervised by [Marcella Cornia](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=90) and [Lorenzo Baraldi](https://www.lorenzobaraldi.com/)
 My research direction is focused both towards leveraging pre-trained, multimodal models for new image editing applications and addressing some key, structural problems of these architectures.
 The targets are:
-1. Fashion Domain. How can we generate a clothed person? How can we generate a garment with accuracy and control? How can we render high frequency details? Which new applications can we design or unlock?
-Current tasks: virtual try-on, garment design and editing, clothed human generation, accurate generation of human body parts
-2. Structural problems and challenges of State-Of-The-Art generative architectures: Which problems are common between the different families of diffusion models? Is there any architectural leak? Is there any underperforming task? Can we extrapolate more insights from the math theory behind them? Is that fully explored? How can we adapt these models to new data domains, using few labels?
-3. Multimodal Large Language Models: this is twofold. On one side, how can we incorporate smoothly the vision capability into an LLM. On the other side, how can we incorporate advanced reasoning and context capabilities into generative vision models
+- Fashion Domain. Application to virtual try-on and garment editing, both clothed humans and in-shop garments.
+- Generative AI robustness and alignment: Investigating architectural leaks in generative models, adaptability across domains and sampling efficiency, theoretical foundations.
+- Multimodal Large Language Models: 1) provide context and reasoning to a vision generative model 2) improve multimodal capabilities of current LLMs
 
 I have further interests combined with generative models, expecially regarding human motion analysis, feature extraction (like [SLIME](https://arxiv.org/abs/2309.03179)), and remote sensing (see also paragraph below)
 
