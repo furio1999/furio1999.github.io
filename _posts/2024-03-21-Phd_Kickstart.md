@@ -128,7 +128,7 @@ Sticking to the robotics field, [Davide Scaramuzza](https://rpg.ifi.uzh.ch/peopl
 ## Best Books and Lectures
 
 Best Theory books: 
--[Pattern Recognition and Machine learning](https://link.springer.com/book/9780387310732) (The bible of Bishop)   
+- [Pattern Recognition and Machine learning](https://link.springer.com/book/9780387310732) (The bible of Bishop)   
 - [Probabilistic Machine Learning (Murphy)](https://probml.github.io/pml-book/book1.html)
 
 Best theory and interactive exercises books: 
