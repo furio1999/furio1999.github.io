@@ -7,6 +7,9 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+<!-- Getting rid of the permalink and changing to site.posts
+instead of paginator.posts actually fixed the problem. Thank you very much! -->
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
