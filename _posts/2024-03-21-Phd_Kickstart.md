@@ -155,8 +155,14 @@ You go safe with stanford lectures. From the classic CS229 to the more advanced 
 
 **Top 5 articles:** 
 [Creativity in Academia — Why you are more creative than you think (timdettmers.com)](https://timdettmers.com/2019/09/03/creativity-in-academia/) Inspiring. No more to add. Just read it. Tim Dettmers is a guarantee
+
 [Lessons learned from a PhD in Machine Learning by Vincent Fortuin](https://medium.com/@vincefort/phd-lessons-part1-8879ae29b8e6) 3 Phd series articles from [Vincent Fortuin](https://fortuin.github.io/) (Now at Helmotz AI). A lot of information out there, very detailed and well explained!
-[An Opinionated Guide to ML Research (joschu.net)](http://joschu.net/blog/opinionated-guide-ml-research.html) Old But Gold —> read also the other 2 linked in this article. From Richard Hamming ([You and Your Research (virginia.edu)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)) and from Michael Nielsen ([Principles of Effective Research – Michael Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)). No need to present them. 
+
+[An Opinionated Guide to ML Research (joschu.net)](http://joschu.net/blog/opinionated-guide-ml-research.html) Old But Gold read also the other 2 linked in this article (see next 2 items). 
+
+From Richard Hamming ([You and Your Research (virginia.edu)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)) 
+
+From Michael Nielsen ([Principles of Effective Research – Michael Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)). No need to introduce them. 
 
 (Bonus): [Mental Health and Academia](https://ricma.netlify.app/blog/mental-health/) By Riccardo Marin, Tuebingen
 
