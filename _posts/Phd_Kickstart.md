@@ -1,7 +1,7 @@
 ---
 title: 'Phd Application'
 date: 2024-03-21
-# permalink: /posts/2024/03/Phd_Application/
+permalink: /posts/2024/03/Phd_Application/
 tags:
   - Phd Life
   - Research Advice
