@@ -70,10 +70,14 @@ My athletic and engineering achievments are not only selfish results, but I want
 
 ## My results highlights
 
-* Cycling: **4th** at cycling **National University Championships (CNU)** - Jun 2023 ([official results](files/CLASSIFICA-CNU.pdf))
-* Cycling: 3rd at local cycling uphill time trial (Gorga, Italy) - Aug 2022
-* Running: 6th at memorial Fava (Roccasecca, Italy) - May 2022 ([results](https://www.garepodistichelazio.it/classifica-Memorial-Antonio-Fava-2022-TopSocieta))
-* Running: **1st** at Pasqualonga (Terracina, Italy) - Apr 2019 ([results](https://www.uisp.it/latina2/pagina/classifica-2-pasqualonga-la-fiora-terracina))
+- Road Cyclist: competing for an amatorial Italian cycling team (Team MP Filtri). 
+**4th** at National University Championships (CNU), Camerino, 2023. [official results](/files/CLASSIFICA-CNU.pdf)
+**7th(4th Italian)** UCI Granfondo World Championships (side event), Uphill Time Trial "Charly Gaul", Monte Bondone, Trento, 2022. \href{https://www.endu.net/it/events/cronoscalata-charly-gaul-monte-bondone/results}{\underline{results}}
+- Road Runner:
+- Memorial Fava: 8th (2022), 16th (8th Italian) (2019)
+- Personal Bests: 10 km **34:43**, Duathlon Classic Italian Championships 2024 ([results](https://www.endu.net/it/events/campionato-italiano-duathlon-classico-no-draft-quinzano/results))
+- Taekwondo: **black belt** + several podiums at inter-regional youth competitions
+- Triathlon. **30th** at Duathlon Sprint Italian Championships (Age Group) Imola, 2024 ([results](https://www.icron.it/live/classifica/20233236/AGM/tipoVis=ASS,filterGender=MASCHILE))
 
 
 
