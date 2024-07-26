@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /athlete/
+permalink: /athlete
 author_profile: True # how to have no side column and full image page?
 ---
 

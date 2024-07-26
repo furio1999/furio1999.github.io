@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-permalink: /publications/
+permalink: /publications
 author_profile: true
 ---
 <!-- https://codedamn.com/news/frontend/how-to-put-image-and-text-side-by-side-in-html -->
