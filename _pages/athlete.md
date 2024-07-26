@@ -72,10 +72,10 @@ My athletic and engineering achievments are not only selfish results, but I want
 
 - Road Cyclist: competing for an amatorial Italian cycling team (Team MP Filtri). 
 **4th** at National University Championships (CNU), Camerino, 2023. [official results](/files/CLASSIFICA-CNU.pdf)
-**7th(4th Italian)** UCI Granfondo World Championships (side event), Uphill Time Trial "Charly Gaul", Monte Bondone, Trento, 2022. \href{https://www.endu.net/it/events/cronoscalata-charly-gaul-monte-bondone/results}{\underline{results}}
+- **7th(4th Italian)**  UCI Granfondo World Championships (side event), Uphill Time Trial "Charly Gaul", Monte Bondone, Trento, 2022. [results](https://www.endu.net/it/events/cronoscalata-charly-gaul-monte-bondone/results)
 - Road Runner:
-- Memorial Fava: 8th (2022), 16th (8th Italian) (2019)
-- Personal Bests: 10 km **34:43**, Duathlon Classic Italian Championships 2024 ([results](https://www.endu.net/it/events/campionato-italiano-duathlon-classico-no-draft-quinzano/results))
+    - Memorial Fava: 8th (2022), 16th (8th Italian) (2019)
+    - Personal Bests: 10 km **34:43**, Duathlon Classic Italian Championships 2024 ([results](https://www.endu.net/it/events/campionato-italiano-duathlon-classico-no-draft-quinzano/results))
 - Taekwondo: **black belt** + several podiums at inter-regional youth competitions
 - Triathlon. **30th** at Duathlon Sprint Italian Championships (Age Group) Imola, 2024 ([results](https://www.icron.it/live/classifica/20233236/AGM/tipoVis=ASS,filterGender=MASCHILE))
 
