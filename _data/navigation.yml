@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications
 
   #- title: "Talks"
   #  url: /talks/    
@@ -13,13 +13,13 @@ main:
   #  url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /year-archive
     
   #- title: "CV"
   #  url: /cv/
 
   - title: "Athlete" # new
-    url: /athlete/
+    url: /athlete
     
   #- title: "Guide"
   #  url: /markdown/
