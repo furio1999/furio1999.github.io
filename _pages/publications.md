@@ -10,7 +10,7 @@ author_profile: true
 {% endif %} -->
 {% include base_path %}
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
