@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /about
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Fulvio Sanguigni! I am an [Italian National Phd](https://www.phd-ai.it/en/359-2/) student, part of [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at [University of Modena and Reggio Emilia](https://www.unimore.it/), supervised by [Marcella Cornia](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=90) and [Lorenzo Baraldi](https://www.lorenzobaraldi.com/)
-My research direction is focused on **Multimodal Generative AI.**
+Hi! I am Fulvio Sanguigni! I am an [Italian National Phd](https://www.phd-ai.it/en/359-2/) student, part of [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at [University of Modena and Reggio Emilia](https://www.unimore.it/), supervised by [Marcella Cornia](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=90), [Lorenzo Baraldi](https://www.lorenzobaraldi.com/) and [Rita Cucchiara](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1)
+My research direction is focused on **Multimodal Generative AI**, mainly focused to 2D Image Editing.
 
 The targets are:
 - **Fashion Domain** Application to virtual try-on and garment editing, both clothed humans and in-shop garments. Generation of fine-grained details such as textures and logos.
