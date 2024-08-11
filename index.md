@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+layout: news # no layot originally
 ---
 
 
@@ -20,65 +21,6 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
 
 ## Latest News
 
-<!-- /* General styling for the news section */ -->
-<html lang="en">
-<head>
-<style>
-.news-container {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  margin: 20px auto;
-  max-width: 800px;
-}
-
-.news-item {
-  padding: 20px;
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-.news-date {
-  font-size: 14px;
-  color: #888;
-  margin-bottom: 10px;
-}
-
-.news-title {
-  font-size: 24px;
-  margin: 0 0 10px;
-}
-
-.news-title a {
-  text-decoration: none;
-  color: #333;
-}
-
-.news-title a:hover {
-  text-decoration: underline;
-}
-
-.news-description {
-  font-size: 16px;
-  color: #666;
-  margin: 0 0 10px;
-}
-
-.news-read-more {
-  display: inline-block;
-  font-size: 16px;
-  color: #007bff;
-  text-decoration: none;
-}
-
-.news-read-more:hover {
-  text-decoration: underline;
-}
-</style>
-</head>
-
-<body>
 <div class="news-container">
   {% assign sorted_news = site.pages | where: "path", "/news.md" | first | parse_yaml %}
   {% assign news_items = sorted_news | split: '---' | slice: 1, 3 %}
@@ -94,7 +36,5 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
     <hr>
   {% endfor %}
 </div>
-</body>
-</html>
 
 
