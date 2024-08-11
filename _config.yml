@@ -110,7 +110,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  strava           :
+  strava           : "34389247"
   tumblr           :
   twitter          : "FulvioSanguigni"
   vine             :
@@ -180,6 +180,8 @@ kramdown:
 # paginate: 5    # If you have a blog and want to paginate posts
 # Collections
 collections:
+  # news:
+  #   output: true
   teaching:
     output: true
     permalink: /:collection/:path/

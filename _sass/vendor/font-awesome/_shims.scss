@@ -190,6 +190,10 @@
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
 }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-strava-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
 .#{$fa-css-prefix}.#{$fa-css-prefix}-linkedin-square:before { content: fa-content($fa-var-linkedin); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-thumb-tack:before { content: fa-content($fa-var-thumbtack); }
@@ -338,6 +342,10 @@
 .#{$fa-css-prefix}.#{$fa-css-prefix}-sort-asc:before { content: fa-content($fa-var-sort-up); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-linkedin {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+.#{$fa-css-prefix}.#{$fa-css-prefix}-strava {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
 }
