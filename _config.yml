@@ -176,6 +176,8 @@ kramdown:
   enable_coderay: false
 
 
+# theme: minima  # or your chosen theme
+# paginate: 5    # If you have a blog and want to paginate posts
 # Collections
 collections:
   teaching:
