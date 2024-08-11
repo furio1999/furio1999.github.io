@@ -1,7 +1,6 @@
 ---
 permalink: /
 author_profile: true
-layout: news # no layot originally
 ---
 
 
@@ -22,16 +21,15 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
 ## Latest News
 
 <div class="news-container">
-  {% assign sorted_news = site.pages | where: "path", "/news.md" | first | parse_yaml %}
-  {% assign news_items = sorted_news | split: '---' | slice: 1, 3 %}
+  <!-- Fetch and display the latest 3 news items -->
+  {% assign latest_news = site.pages | where: "layout", "news" | sort: 'date' | reverse | slice: 0, 3 %}
 
-  {% for item in news_items %}
-    {% assign news = item | parse_yaml %}
+  {% for news in latest_news %}
     <div class="news-item">
       <div class="news-date">{{ news.date | date: "%B %d, %Y" }}</div>
-      <h2 class="news-title"><a href="{{ news.link }}">{{ news.title }}</a></h2>
-      <p class="news-description">{{ news.description }}</p>
-      <a class="news-read-more" href="{{ news.link }}">Read more</a>
+      <h2 class="news-title"><a href="{{ news.url }}">{{ news.title }}</a></h2>
+      <p class="news-description">{{ news.excerpt | strip_html | truncate: 150 }}</p>
+      <a class="news-read-more" href="{{ news.url }}">Read more</a>
     </div>
     <hr>
   {% endfor %}
