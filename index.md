@@ -9,6 +9,7 @@ My research direction is focused on **Multimodal Generative AI**, mainly in:
 - 2D Image Editing and character-based personalization
 - text to Image generation for Virtual Try-On
 - Garment generation and Virtual Try-Off. 
+
 For further details, check my works on [RAG techniques for Fashion Design](https://arxiv.org/abs/2504.14011) and [Virtual Try-Off](https://temu-vtoff-page.github.io/).
 I have previously worked at [European Space Agency](https://www.esa.int/), as a visiting student in [Φ-Lab](https://philab.esa.int/), supervised by [Irene Amerini](https://sites.google.com/diag.uniroma1.it/ireneamerini) (Sapienza University of Rome) and co-supervised by [Bertrand Le Saux](https://blesaux.github.io/) (Φ-Lab). As a result, we developed one of the first diffusion-based methods for image inpaiting in remote sensing, you can check it [here](https://arxiv.org/abs/2311.06222).
 
