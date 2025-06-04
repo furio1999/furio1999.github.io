@@ -22,7 +22,7 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
   {% for news in site.data.news %}
     <div class="news-item">
       <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
-      <p class="news-date">{{ news.date | date: "%B %d, %Y" }}</p>
+      <p class="news-date">{{ news.date | date: "%B %Y" }}</p>
       <p class="news-excerpt">{{ news.excerpt | markdownify }}</p>
     </div>
     <hr>
