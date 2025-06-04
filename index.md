@@ -6,8 +6,8 @@ author_profile: true
 
 Hi! I am Fulvio Sanguigni! I am an [Italian National PhD](https://www.phd-ai.it/en/359-2/) student, part of [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at [University of Modena and Reggio Emilia](https://www.unimore.it/), supervised by [Marcella Cornia](https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it), and [Rita Cucchiara](https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it)
 My research direction is focused on **Multimodal Generative AI**, mainly in:
-- 2D Image Editing and character-based personalization
-- text to Image generation for Virtual Try-On
+- 2D image editing and character-based personalization
+- Text to Image generation for Virtual Try-On
 - Garment generation and Virtual Try-Off. 
 
 For further details, check my works on [RAG techniques for Fashion Design](https://arxiv.org/abs/2504.14011) and [Virtual Try-Off](https://temu-vtoff-page.github.io/).
