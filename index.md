@@ -2,7 +2,7 @@
 permalink: /
 author_profile: true
 ---
-
+<div style="font-size: 0.70rem;">
 
 Hi! I am Fulvio Sanguigni! I am an [Italian National PhD](https://www.phd-ai.it/) student, part of [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at [University of Modena and Reggio Emilia](https://www.unimore.it/), supervised by [Marcella Cornia](https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it), and [Rita Cucchiara](https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it)
 My research direction is focused on **Multimodal Generative AI**, mainly in:
@@ -17,6 +17,8 @@ In the meanwhile, I delve into sports firstly for passion, secondly for the rema
 You can find more in my [athlete](https://furio1999.github.io//athlete/) page and in several blog posts.
 
 ## Latest News
+
+<div style="font-size: 0.70rem;">
 
 <!-- {% include news.html %} -->
 
