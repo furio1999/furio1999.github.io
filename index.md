@@ -18,7 +18,8 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
 
 ## Latest News
 
-<div class="news-list">
+<!-- news-list -->
+<div class="news-container">
   {% for news in site.data.news %}
     <div class="news-item">
       <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
