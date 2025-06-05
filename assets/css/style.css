@@ -59,3 +59,10 @@
     max-width: 100%;       /* Full width on smaller screens */
   }
 }
+
+/* Apply smaller font size to the main content area */
+.main-content, .page-content, body {
+  font-size: 0.70rem;
+  line-height: 1.4;
+  /* You can add other styling if you want */
+}

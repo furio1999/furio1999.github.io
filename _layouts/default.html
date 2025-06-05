@@ -11,14 +11,18 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="shortcut icon" type="image/x-icon" href="images/Capricorn.ico">
+    <!-- NEW! Link to css file -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
 
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-
-    {{ content }}
+    <!-- NEW! to reduce font size with css class main-content -->
+    <div class="main-content">
+    {{ content }} 
+    </div>
 
     <div class="page__footer">
       <footer>
