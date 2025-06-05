@@ -53,7 +53,8 @@ author_profile: True # how to have no side column and full image page?
   display: flex;
   justify-content: space-between;
   gap: 10px;
-  max-width: 100%;
+  width: 70%;
+  margin: 0 auto; /* centers the collage horizontally */
   overflow-x: auto;
 }
 
@@ -100,11 +101,14 @@ Aside from that, I think sport is also about exploration, other than competition
 🚴‍♂️Road Cycling: competing for an amatorial Italian cycling team (Team MP Filtri). 
 - **4th** at National University Championships (CNU), Camerino, 2023. [official results](/files/CLASSIFICA-CNU.pdf)
 - **7th (4th Italian)**  UCI Granfondo World Championships (side event), Uphill Time Trial "Charly Gaul", Monte Bondone, Trento, 2022. [results](https://www.endu.net/it/events/cronoscalata-charly-gaul-monte-bondone/results)
+
 🏃‍♂️Road Runner:
     - Memorial Fava: 8th (2022), 16th (8th Italian) (2019) + won a small local race, La Pasqualonga, in 2019🙂. My first victory.
     - 10 km time: **34:43**, Duathlon Classic Italian Championships 2024 ([results](https://www.endu.net/it/events/campionato-italiano-duathlon-classico-no-draft-quinzano/results))
-    - 5km time: **15:53**, Duathlon Sprint Italian Championships 2025 ([time](https://www.endu.net/it/events/campionato-italiano-duathon-sprint-assoluto-u23-agegroup-paraduathlon-coppacrono-imola/results)):
+    - 5km time: **15:53**, Duathlon Sprint Italian Championships 2025 ([time](https://www.endu.net/it/events/campionato-italiano-duathon-sprint-assoluto-u23-agegroup-paraduathlon-coppacrono-imola/results))
+
 🥋Taekwondo: **black belt** + several podiums at inter-regional youth competitions
+
 🏊‍♂️‍➡️🚴‍♂️➡️🏃‍♂️Triathlon. **4th** at Duathlon Sprint Italian Championships (Age Group) Imola, 2025 + **italian champion Age Group 25-29** ([results](https://www.fitri.it/it/news/fitri/1159-terzo-piano/20323-podi-e-classifiche-age-group-dei-campionati-italiani-duathlon-sprint-imola-2025.html))
 
 
