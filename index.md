@@ -13,7 +13,9 @@ Moreover, I am broadly interested in video and 3D applications involving human m
 🛰️ I have previously worked at [European Space Agency](https://www.esa.int/), as a visiting student at [Φ-Lab](https://philab.esa.int/), supervised by [Irene Amerini](https://sites.google.com/diag.uniroma1.it/ireneamerini) (Sapienza University of Rome) and co-supervised by [Bertrand Le Saux](https://blesaux.github.io/) (Φ-Lab). As a result, *we developed one of the first diffusion-based methods for image inpainting in remote sensing* — you can check it [here](https://arxiv.org/abs/2311.06222).
 
 🚴‍♂️ Meanwhile, I delve into sports: first for passion, second for the benefits of living a student-athlete life, and finally for the sake of competition.
-You can find more on my [athlete](https://furio1999.github.io//athlete/) page and blog posts.
+You can find more on my [athlete](https://furio1999.github.io//athlete/) page and blog posts. 
+
+![LTF LOGO](images/ltf_logo.ico) I am involved in Lead [The Future Mentorship](https://www.leadthefuture.tech/), a non-profit organization that helps Italian STEM students to develop their full potential and get/create exciting job opportunities.
 {% endcapture %}
 
 {{ intro | markdownify }}
