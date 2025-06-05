@@ -61,11 +61,11 @@
 }
 
 /* Apply smaller font size to the main content area */
-.main-content, .page-content, body {
+/* .main-content, .page-content, body {
   font-size: 0.70rem;
-  line-height: 1.4;
+  line-height: 1.4; */
   /* You can add other styling if you want */
-}
+/* } */
 .small-text {
   font-size: 0.7rem;
   line-height: 1.4;
