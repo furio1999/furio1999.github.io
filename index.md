@@ -18,10 +18,11 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
 
 ## Latest News
 
-{% include news.html %}
+<!-- {% include news.html %} -->
 
 <!-- news-list -->
-<!-- <div class="news-container">
+<div class="news-container">
+  {% assign sorted_news = site.data.news | sort: "date" | reverse %}
   {% for news in site.data.news limit:3 %}
     <div class="news-item">
       <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
@@ -30,6 +31,6 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
     </div>
     <hr>
   {% endfor %}
-</div> -->
+</div>
 
 
