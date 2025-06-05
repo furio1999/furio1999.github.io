@@ -89,12 +89,20 @@ I think my athletic history is much more behind other areas of my life, even if 
 ***My athletic and engineering achievments are not only selfish results, but I want to spread information and consciousness about life as a student-athlete, both for future students and current success stories. I share my story because every path towards excellence is paved of hard lessons learnt, emotions and people. Expecially people***. 
 
 <div class="collage-row">
-  <img src="images/Campione_Italiano.jpg">
   <img src="images/Tramonto_Imola.jpg">
   <img src="images/Pasqualonga.jpg">
+  <img src="images/Imola_run.jpg">
+  <img src="images/sguardo.jpg">
 </div>
 
 Aside from that, I think sport is also about exploration, other than competition. And biking around really helps me connecting more with the territory I live in.
+
+<div class="collage-row">
+  <img src="images/TDS.jpg">
+  <img src="images/Pordoi.jpg">
+  <img src="images/Sasso_Marconi.jpg">
+  <img src="images/Corvara.jpg">
+</div>
 
 ## My results highlights
 
