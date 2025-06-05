@@ -22,7 +22,15 @@ author_profile: true
     <div class="publication-text">
       <div class="publication-title">Diffusion Models for Earth Observation Use-cases</div>
       <div class="publication-note">(oral)</div>
-      <div class="publication-authors"><i>Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux</i></div>
+      <div class="publication-authors">
+        <i>
+          <a href="https://furio1999.github.io">Fulvio Sanguigni</a>, 
+          <a href="https://mikonvergence.github.io/">Mikolaj Czerkawski</a>,
+          <a href="https://scholar.google.com/citations?user=P64hj-4AAAAJ&hl=it">Lorenzo Papa</a>,
+          <a href="https://sites.google.com/diag.uniroma1.it/ireneamerini">Irene Amerini</a>, 
+          <a href="https://blesaux.github.io/">Bertrand Le Saux</a>
+        </i>
+      </div>
       <div class="publication-conference">Big Data from Space (BiDS), Nov 2023</div>
       <div class="publication-links">
         <a href="https://arxiv.org/abs/2311.06222" title="arXiv"><i class="fas fa-book"></i></a>
