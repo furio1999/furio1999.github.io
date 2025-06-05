@@ -11,6 +11,8 @@ author_profile: true
 {% include base_path %}
 
 <link rel="stylesheet" href="/assets/css/pubs.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 
 <div class="publication-container">
   <div class="publication-item">
@@ -23,9 +25,8 @@ author_profile: true
       <div class="publication-authors"><i>Fulvio Sanguigni, Mikolaj Czerkawski, Lorenzo Papa, Irene Amerini, Bertrand Le Saux</i></div>
       <div class="publication-conference">Big Data from Space (BiDS), Nov 2023</div>
       <div class="publication-links">
-        <a href="https://arxiv.org/abs/2311.06222">[ArXiv]</a>
-        <a href="https://arxiv.org/pdf/2311.06222">[PDF]</a>
-        <a href="https://github.com/furio1999/EO_Diffusion">[Code]</a>
+        <a href="https://arxiv.org/abs/2311.06222" title="arXiv"><i class="fas fa-book"></i></a>
+        <a href="https://github.com/furio1999/EO_Diffusion" title="Code"><i class="fab fa-github"></i></a>
       </div>
     </div>
   </div>
