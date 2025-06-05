@@ -2,7 +2,7 @@
 .news-container {
   display: flex;
   flex-direction: column;
-  gap: 16px;              /* Reduced vertical gap */
+  gap: 10px;              /* Reduced vertical gap */
   margin: 20px auto;
   max-width: 600px;       /* Smaller news box width */
 }
