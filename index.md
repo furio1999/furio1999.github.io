@@ -15,7 +15,7 @@ Moreover, I am broadly interested in video and 3D applications involving human m
 🚴‍♂️ Meanwhile, I delve into sports: first for passion, second for the benefits of living a student-athlete life, and finally for the sake of competition.
 You can find more on my [athlete](https://furio1999.github.io//athlete/) page and blog posts. 
 
-![LTF LOGO](images/ltf_logo.ico) I am involved in Lead [The Future Mentorship](https://www.leadthefuture.tech/), a non-profit organization that helps Italian STEM students to develop their full potential and get/create exciting job opportunities.
+<img src="images/ltf_logo.ico" alt="LTF LOGO" style="width:1em; height:1em;"> I am involved in Lead [The Future Mentorship](https://www.leadthefuture.tech/), a non-profit organization that helps Italian STEM students to develop their full potential and get/create exciting job opportunities.
 {% endcapture %}
 
 {{ intro | markdownify }}
