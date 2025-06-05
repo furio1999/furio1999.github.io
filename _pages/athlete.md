@@ -120,7 +120,7 @@ author_profile: True # how to have no side column and full image page?
 
 ## A taekwondoka turned endurance athlete
 
-I started this long sport journey thanks to my swimming classes in my childohood, together with what I consider the first milestone of my life: **my taekwondo learning path**. 
+I started this long sport journey thanks to my swimming classes in my childhood, together with what I consider the first milestone of my life: **my taekwondo learning path**. 
 I joined several tournaments, met a lot of friends and expecially, I started to understand how my body works, and changing my introvert nature. The dark belt (first DAN) is one of the last things of that experience, and I still feel today a strong pride and emotions when I wear it. I will come back one day.
 
 After two parenthesis in tennis, I started competing again in mountain-bike in 2017-2018, running (2018-present), and road cycling (2021-present). 
