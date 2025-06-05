@@ -16,7 +16,7 @@ I have previously worked at [European Space Agency](https://www.esa.int/), as a 
 In the meanwhile, I delve into sports firstly for passion, secondly for the remarkable benefits of living a student-athlete life and finally for sake of competition.
 You can find more in my [athlete](https://furio1999.github.io//athlete/) page and in several blog posts.
 
-<h2 style="text-align: center;">Latest News</h2>
+## Latest News
 
 {% include news.html %}
 
