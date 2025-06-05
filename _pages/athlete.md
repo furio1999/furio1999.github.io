@@ -158,7 +158,7 @@ Aside from that, I think sport is also about exploration, other than competition
 🥋Taekwondo: **black belt** + several podiums at inter-regional youth competitions
 
 Triathlon 🏊‍♂️‍➡️🚴‍♂️➡️🏃‍♂️ ([TD Rimini](https://www.tdsgrimini.it/new/)): 
-- **4th** at Duathlon Sprint Italian Championships (Age Group) Imola, 2025 + **italian champion Age Group 25-29** ([results](https://www.fitri.it/it/news/fitri/1159-terzo-piano/20323-podi-e-classifiche-age-group-dei-campionati-italiani-duathlon-sprint-imola-2025.html))
+- **4th** at Duathlon Sprint Italian Championships (Age Group) Imola, 2025 + **Italian champion Age Group 25-29** ([results](https://www.fitri.it/it/news/fitri/1159-terzo-piano/20323-podi-e-classifiche-age-group-dei-campionati-italiani-duathlon-sprint-imola-2025.html))
 
 
 
