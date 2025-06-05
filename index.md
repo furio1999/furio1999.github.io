@@ -16,10 +16,12 @@ I have previously worked at [European Space Agency](https://www.esa.int/), as a 
 In the meanwhile, I delve into sports firstly for passion, secondly for the remarkable benefits of living a student-athlete life and finally for sake of competition.
 You can find more in my [athlete](https://furio1999.github.io//athlete/) page and in several blog posts.
 
-## Latest News
+<h2 style="text-align: center;">Latest News</h2>
+
+{% include news.html %}
 
 <!-- news-list -->
-<div class="news-container">
+<!-- <div class="news-container">
   {% for news in site.data.news limit:3 %}
     <div class="news-item">
       <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
@@ -28,6 +30,6 @@ You can find more in my [athlete](https://furio1999.github.io//athlete/) page an
     </div>
     <hr>
   {% endfor %}
-</div>
+</div> -->
 
 

@@ -2,9 +2,10 @@
 .news-container {
   display: flex;
   flex-direction: column;
-  gap: 10px;              /* Reduced vertical gap */
-  margin: 20px auto;
-  max-width: 600px;       /* Smaller news box width */
+  gap: 10px;
+  margin: 20px 0;           /* Remove auto centering */
+  max-width: 600px;
+  text-align: left;         /* Ensure text is left-aligned */
 }
 
 .news-item {
