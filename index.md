@@ -23,11 +23,11 @@ You can find more on my [athlete](https://furio1999.github.io//athlete/) page an
 {{ intro | markdownify }}
 
 </div>
-
-## Latest News
+<!-- ## Latest News -->
 <!-- {% include news.html %} -->
 <!-- news-list -->
 <div class="news-container small-text">
+  <h2 style="text-align: left;">Latest News</h2>
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
   {% for news in site.data.news limit:3 %}
     <div class="news-item">
