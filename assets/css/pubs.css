@@ -1,30 +1,29 @@
-/* General styling for the publications section */
 .publication-container {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 9.6px; /* 8px * 1.2 */
     margin: 0;
-    max-width: 600px;
+    max-width: 720px; /* 600px * 1.2 */
     text-align: left;
   }
   
   /* Individual publication item */
   .publication-item {
-    display: flex;            /* arrange children in a row */
-    flex-direction: row;      /* default, but explicit for clarity */
-    gap: 8px;                /* spacing between image and text */
+    display: flex;
+    flex-direction: row;
+    gap: 9.6px;
     background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 8px rgba(0,0,0,0.05);
-    padding: 8px;
-    align-items: flex-start;  /* align top edges */
+    border-radius: 9.6px;
+    box-shadow: 0 0 9.6px rgba(0,0,0,0.05);
+    padding: 9.6px;
+    align-items: flex-start;
   }
   
   /* Image container */
   .publication-image img {
-    width: 100px;
+    width: 120px; /* 100px * 1.2 */
     height: auto;
-    border-radius: 4px;
+    border-radius: 4.8px;
     object-fit: cover;
   }
   
@@ -34,30 +33,30 @@
   }
   
   .publication-title {
-    font-size: 14px;
+    font-size: 16.8px; /* 14px * 1.2 */
     font-weight: bold;
-    margin: 0 0 4px;
+    margin: 0 0 4.8px;
   }
   
   .publication-authors,
   .publication-conference {
-    font-size: 10px;
+    font-size: 12px; /* 10px * 1.2 */
     color: #555;
-    margin: 0 0 4px;
+    margin: 0 0 4.8px;
   }
   
   .publication-note {
     color: #d9534f;
     font-style: italic;
-    font-size: 10px;
-    margin-bottom: 4px;
+    font-size: 12px;
+    margin-bottom: 4.8px;
   }
   
   .publication-links a {
-    font-size: 10px;
+    font-size: 12px;
     color: #007bff;
     text-decoration: none;
-    margin-right: 10px;
+    margin-right: 12px;
   }
   
   .publication-links a:hover {
@@ -66,12 +65,12 @@
   
   @media (max-width: 768px) {
     .publication-item {
-      flex-direction: column;  /* stack vertically on small screens */
+      flex-direction: column;
       align-items: flex-start;
     }
   
     .publication-image img {
-      width: 100%;            /* full width on small screens */
+      width: 100%;
       height: auto;
     }
   }
