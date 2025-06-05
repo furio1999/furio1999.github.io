@@ -10,7 +10,7 @@ author_profile: true
 {% endif %} -->
 {% include base_path %}
 
-<link rel="stylesheet" href="/assets/css/publications.css">
+<link rel="stylesheet" href="/assets/css/pubs.css">
 
 <div class="publication-container">
   <div class="publication-item">
