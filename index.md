@@ -2,23 +2,29 @@
 permalink: /
 author_profile: true
 ---
-<div style="font-size: 0.7rem; line-height: 1.4;">
+<div class="small-text">
 
-Hi! I am Fulvio Sanguigni! I am an [Italian National PhD](https://www.phd-ai.it/) student, part of [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at [University of Modena and Reggio Emilia](https://www.unimore.it/), supervised by [Marcella Cornia](https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it), and [Rita Cucchiara](https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it)
+{% capture intro %}
+Hi! I am Fulvio Sanguigni! I am an [Italian National PhD](https://www.phd-ai.it/) student, part of [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at [University of Modena and Reggio Emilia](https://www.unimore.it/), supervised by [Marcella Cornia](https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it), and [Rita Cucchiara](https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it).
+
 My research direction is focused on **Multimodal Generative AI**, mainly in:
 - 2D image editing and character-based personalization
 - Text to Image generation for Virtual Try-On
-- Garment generation and Virtual Try-Off. 
+- Garment generation and Virtual Try-Off.
 
 For further details, check my works on [RAG techniques for Fashion Design](https://arxiv.org/abs/2504.14011) and [Virtual Try-Off](https://temu-vtoff-page.github.io/).
 
-I have previously worked at [European Space Agency](https://www.esa.int/), as a visiting student at [Φ-Lab](https://philab.esa.int/), supervised by [Irene Amerini](https://sites.google.com/diag.uniroma1.it/ireneamerini) (Sapienza University of Rome) and co-supervised by [Bertrand Le Saux](https://blesaux.github.io/) (Φ-Lab). As a result, we developed one of the first diffusion-based methods for image inpaiting in remote sensing, you can check it [here](https://arxiv.org/abs/2311.06222).
+I have previously worked at [European Space Agency](https://www.esa.int/), as a visiting student at [Φ-Lab](https://philab.esa.int/), supervised by [Irene Amerini](https://sites.google.com/diag.uniroma1.it/ireneamerini) (Sapienza University of Rome) and co-supervised by [Bertrand Le Saux](https://blesaux.github.io/) (Φ-Lab). As a result, we developed one of the first diffusion-based methods for image inpainting in remote sensing — you can check it [here](https://arxiv.org/abs/2311.06222).
 
-In the meanwhile, I delve into sports firstly for passion, secondly for the remarkable benefits of living a student-athlete life and finally for sake of competition.
-You can find more in my [athlete](https://furio1999.github.io//athlete/) page and in several blog posts.
+Meanwhile, I delve into sports: first for passion, second for the benefits of living a student-athlete life, and finally for the sake of competition.
+You can find more on my [athlete](https://furio1999.github.io//athlete/) page and blog posts.
+{% endcapture %}
+
+{{ intro | markdownify }}
+
+</div>
 
 ## Latest News
-<div style="font-size: 0.7rem; line-height: 1.4;">
 <!-- {% include news.html %} -->
 <!-- news-list -->
 <div class="news-container">
