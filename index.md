@@ -27,7 +27,7 @@ You can find more on my [athlete](https://furio1999.github.io//athlete/) page an
 ## Latest News
 <!-- {% include news.html %} -->
 <!-- news-list -->
-<div class="news-container">
+<div class="news-container small-text">
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
   {% for news in site.data.news limit:3 %}
     <div class="news-item">
