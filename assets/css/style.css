@@ -3,69 +3,52 @@
   display: flex;
   flex-direction: column;
   gap: 4px;
-  margin: 0;           /* Remove auto centering */ /*10px 0;*/
+  margin: 0;
   max-width: 600px;
-  text-align: left;         /* Ensure text is left-aligned */
+  text-align: left;
 }
 
 .news-item {
-  padding: 4px;          /* Slightly smaller padding */
+  display: flex;            /* Make it a row */
+  align-items: center;      /* Vertically center date and content */
+  padding: 6px 8px;
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
-  font-size: 0.7rem;     /* Smaller base font size for news item */
+  font-size: 0.7rem;
 }
 
 .news-date {
-  font-size: 0.6rem;        /* Smaller date */
+  flex: 0 0 80px;           /* Fixed width for date */
+  font-size: 0.6rem;
   color: #888;
-  margin-bottom: 6px;
+  margin: 0;                /* Remove bottom margin since date is now inline */
 }
 
-.news-title {
-  font-size: 0.7rem;        /* Smaller title */
-  margin: 0 0 8px;
-}
-
-.news-title a {
-  text-decoration: none;
+.news-content {
+  flex: 1;                  /* Take remaining space */
+  font-size: 0.7rem;
   color: #333;
 }
 
-.news-title a:hover {
-  text-decoration: underline;
-}
-
-.news-description {
-  font-size: 0.6rem;        /* Smaller description */
-  color: #666;
-  margin: 0 0 8px;
-}
-
-.news-read-more {
-  display: inline-block;
-  font-size: 0.6rem;
-  color: #007bff;
+/* Links inside content if any */
+.news-content a {
   text-decoration: none;
+  color: #007bff;
 }
 
-.news-read-more:hover {
+.news-content a:hover {
   text-decoration: underline;
 }
 
-/* Media queries for responsiveness */
+/* Responsiveness */
 @media (max-width: 768px) {
   .news-container {
-    max-width: 100%;       /* Full width on smaller screens */
+    max-width: 100%;
   }
 }
 
-/* Apply smaller font size to the main content area */
-/* .main-content, .page-content, body {
-  font-size: 0.70rem;
-  line-height: 1.4; */
-  /* You can add other styling if you want */
-/* } */
+/* Smaller general text override */
 .small-text {
   font-size: 0.9rem;
   line-height: 1.4;

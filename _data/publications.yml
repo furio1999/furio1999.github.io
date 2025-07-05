@@ -1,0 +1,72 @@
+- title: "Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals"
+  image: /images/teaser_temu.png
+  authors:
+    - name: Davide Lobba
+      url: https://scholar.google.com/citations?user=WEMoLPEAAAAJ&hl=en&oi=ao
+    - name: Fulvio Sanguigni
+      url: https://furio1999.github.io
+    - name: Marcella Cornia
+      url: https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it
+    - name: Nicu Sebe
+      url: https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en
+    - name: Rita Cucchiara
+      url: https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it
+  conference: Preprint
+  links:
+    - icon: fas fa-book
+      url: https://arxiv.org/abs/2505.21062
+      title: arXiv
+    - icon: fab fa-github
+      url: https://github.com/davidelobba/TEMU-VTOFF
+      title: Code
+    - icon: fas fa-globe
+      url: https://temu-vtoff-page.github.io/
+      title: Webpage
+
+- title: "Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation"
+  note: "(oral)"
+  image: /images/retrieve_demo.png
+  authors:
+    - name: Fulvio Sanguigni
+      url: https://furio1999.github.io
+    - name: Davide Morelli
+      url: https://scholar.google.it/citations?user=UJ4D3rYAAAAJ&hl=it
+    - name: Marcella Cornia
+      url: https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it
+    - name: Rita Cucchiara
+      url: https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it
+  conference: International Joint Conference on Neural Networks (IJCNN), 2025
+  links:
+    - icon: fas fa-book
+      url: https://arxiv.org/abs/2504.14011
+      title: arXiv
+    - icon: fab fa-github
+      url: https://github.com/fashion-rag
+      title: Code
+    - icon: fas fa-globe
+      url: https://fashion-rag-page.github.io/
+      title: Webpage
+
+- title: Diffusion Models for Earth Observation Use-cases
+  note: "(oral)"
+  image: /images/slides_cr.png
+  authors:
+    - name: Fulvio Sanguigni
+      url: https://furio1999.github.io
+    - name: Mikolaj Czerkawski
+      url: https://mikonvergence.github.io/
+    - name: Lorenzo Papa
+      url: https://scholar.google.com/citations?user=P64hj-4AAAAJ&hl=it
+    - name: Irene Amerini
+      url: https://sites.google.com/diag.uniroma1.it/ireneamerini
+    - name: Bertrand Le Saux
+      url: https://blesaux.github.io/
+  conference: Big Data from Space (BiDS), Nov 2023
+  links:
+    - icon: fas fa-book
+      url: https://arxiv.org/abs/2311.06222
+      title: arXiv
+    - icon: fab fa-github
+      url: https://github.com/furio1999/EO_Diffusion
+      title: Code
+

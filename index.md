@@ -23,16 +23,15 @@ You can find more on my [athlete](https://furio1999.github.io//athlete/) page an
 </div>
 
 <div class="news-container small-text">
-  <h2 style="text-align: left;">Latest News</h2>
-  {% assign sorted_news = site.data.news | sort: "date" | reverse %}
-  {% for news in site.data.news limit:3 %}
-    <div class="news-item">
-      <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
-      <p class="news-date">{{ news.date | date: "%B %Y" }}</p>
-      <p class="news-excerpt">{{ news.excerpt | markdownify }}</p>
+  <h2>News</h2>
+
+  {% for item in site.data.news %}
+    <div class="news-item-row">
+      <div class="news-date">{{ item.date }}</div>
+      <div class="news-content">{{ item.content | markdownify }}</div>
     </div>
-    <hr>
   {% endfor %}
 </div>
+
 
 

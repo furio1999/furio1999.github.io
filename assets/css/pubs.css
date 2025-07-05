@@ -1,31 +1,24 @@
-.publication-container {
-    display: flex;
-    flex-direction: column;
-    gap: 9.6px; /* 8px * 1.2 */
-    margin: 0;
-    max-width: 720px; /* 600px * 1.2 */
-    text-align: left;
-  }
-  
-  /* Individual publication item */
-  .publication-item {
-    display: flex;
-    flex-direction: row;
-    gap: 9.6px;
-    background-color: #fff;
-    border-radius: 9.6px;
-    box-shadow: 0 0 9.6px rgba(0,0,0,0.05);
-    padding: 9.6px;
-    align-items: flex-start;
-  }
-  
-  /* Image container */
-  .publication-image img {
-    width: 120px; /* 100px * 1.2 */
-    height: auto;
-    border-radius: 4.8px;
-    object-fit: cover;
-  }
+.publication-item {
+  display: flex;
+  align-items: center; /* vertically center image and text */
+  gap: 1rem; /* space between image and text */
+}
+
+.publication-image {
+  display: flex;
+  justify-content: center; /* horizontal center inside image container */
+  align-items: center;     /* vertical center inside image container */
+  flex-shrink: 0;          /* prevent image from shrinking */
+  width: 150px;            /* or whatever fixed width you want */
+  height: auto;
+}
+
+.publication-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* center horizontally inside container */
+}
   
   /* Text content */
   .publication-text {
