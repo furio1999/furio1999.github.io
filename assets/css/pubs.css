@@ -44,6 +44,12 @@
     font-size: 12px;
     margin-bottom: 4.8px;
   }
+  .publication-footnote {
+    color: #555;
+    font-style: italic;
+    font-size: 12px;
+    margin-bottom: 4.8px;
+  }
   
   .publication-links a {
     font-size: 12px;

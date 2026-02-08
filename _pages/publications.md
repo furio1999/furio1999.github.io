@@ -30,6 +30,7 @@ author_profile: true
           <a href="{{ link.url }}" title="{{ link.title }}"><i class="{{ link.icon }}"></i></a>
         {% endfor %}
       </div>
+      <div class="publication-footnote">{{ pub.footnote }}</div>
     </div>
   </div>
 </div>

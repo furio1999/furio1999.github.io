@@ -1,6 +1,6 @@
 - title: "Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals"
   image: /images/teaser_temu.png
-  note: "* denotes equal contribution"
+  footnote: "* denotes equal contribution"
   authors:
     - name: Davide Lobba*
       url: https://scholar.google.com/citations?user=WEMoLPEAAAAJ&hl=en&oi=ao
