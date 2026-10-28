@@ -6,7 +6,7 @@ author_profile: true
 <div class="home-intro">
 
 <p class="eyebrow">PhD student · AImageLab, UNIMORE</p>
-<h1 class="home-hello">Hi, I'm Fulvio <span>—</span> I build generative models for fashion, and I race.</h1>
+<h1 class="home-hello">Hi, I'm Fulvio, here you find my academic works and some parts of my life</h1>
 
 <div class="home-topics">
   <span class="pill pill--accent">Multimodal Generative AI</span>

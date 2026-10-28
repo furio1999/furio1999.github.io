@@ -10,6 +10,10 @@ disciplines:
     team: TD Rimini
     team_url: https://www.tdsgrimini.it/new/
     results:
+      - year: 2026
+        place: "67th"
+        event: "Duathlon Sprint Italian Championships, **Absolute (Elite)** — 67th of 103 finishers, 10th in S2 · run 1 **15:55**, run 2 **7:02**"
+        url: https://www.myfitri.it/classificagenerale/2026/W11458/MASCHILE
       - year: 2025
         place: "1st"
         gold: true
@@ -37,6 +41,10 @@ disciplines:
   - name: Running
     icon: "🏃"
     results:
+      - year: 2026
+        place: "3rd"
+        event: "SportScheck RUN Nürnberg, 5.5 km — **17:35** (3'13\"/km), 3rd of 830 participants"
+        url: https://my.raceresult.com/378850/results
       - year: 2025
         place: "15:53"
         event: "5 km run leg — Duathlon Sprint Italian Championships, Imola"
