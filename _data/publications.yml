@@ -1,58 +1,145 @@
-- title: "Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals"
-  image: /images/teaser_temu.png
+# Publications — newest first. The page groups entries by `year`.
+#
+# Fields
+#   title, year, image          required
+#   venue        full venue name (shown in italics)
+#   venue_short  short badge, e.g. "ECCV 2026"
+#   award        optional highlight badge, e.g. "Spotlight", "Oral"
+#   kind         optional plain badge, e.g. "Poster", "Dataset"
+#   featured     true -> gold outline
+#   topics       used by the filter chips: fashion | dataset | remote-sensing
+#   tldr         one or two sentences
+#   authors      list of {name, url, me: true, equal: true}
+#   links        list of {label, url, icon}; icon is a Font Awesome 5 class
+#   bibtex       optional; if missing, one is generated from the fields above
+#   bibkey       optional key for the generated BibTeX
+
+- title: "Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off"
+  year: 2026
+  image: /images/teaser_dressed.jpg
+  venue: European Conference on Computer Vision (ECCV), 2026
+  venue_short: ECCV 2026
+  award: Spotlight
+  kind: Dataset & Benchmark
+  featured: true
+  topics: [fashion, dataset]
+  bibkey: lobba2026dress
+  tldr: >-
+    The first benchmark unifying virtual try-on, try-off and text-guided garment editing:
+    146k verified quadruplets across three garment categories and seven edit types,
+    built with a fully automated MLLM + diffusion curation pipeline.
   authors:
-    - name: Davide Lobba*
+    - name: Davide Lobba
       url: https://scholar.google.com/citations?user=WEMoLPEAAAAJ&hl=en&oi=ao
-    - name: Fulvio Sanguigni*
+      equal: true
+    - name: Fulvio Sanguigni
       url: https://furio1999.github.io
+      me: true
+      equal: true
+    - name: Bin Ren
+    - name: Marcella Cornia
+      url: https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it
+    - name: Rita Cucchiara
+      url: https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it
+    - name: Nicu Sebe
+      url: https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2603.22607
+      icon: fas fa-file-alt
+    - label: Project
+      url: https://furio1999.github.io/Dress-ED/
+      icon: fas fa-globe
+    - label: Code
+      url: https://github.com/aimagelab/Dress-ED
+      icon: fab fa-github
+    - label: Dataset
+      url: https://huggingface.co/datasets/davidelobba/Dress-ED
+      icon: fas fa-database
+
+- title: "Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals"
+  year: 2026
+  image: /images/teaser_temu.png
+  venue: International Conference on Learning Representations (ICLR), 2026
+  venue_short: ICLR 2026
+  kind: Poster
+  topics: [fashion]
+  bibkey: lobba2026inverse
+  tldr: >-
+    TEMU-VTOFF: virtual try-off across multiple garment categories — recovering clean,
+    product-style images of what a person is wearing from a single photo.
+  authors:
+    - name: Davide Lobba
+      url: https://scholar.google.com/citations?user=WEMoLPEAAAAJ&hl=en&oi=ao
+      equal: true
+    - name: Fulvio Sanguigni
+      url: https://furio1999.github.io
+      me: true
+      equal: true
     - name: Marcella Cornia
       url: https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it
     - name: Nicu Sebe
       url: https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en
     - name: Rita Cucchiara
       url: https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it
-  conference: ICLR 2026 (poster) | * denotes equal contribution
   links:
-    - icon: fas fa-book
+    - label: Paper
       url: https://arxiv.org/abs/2505.21062
-      title: arXiv
-    - icon: fab fa-github
-      url: https://github.com/davidelobba/TEMU-VTOFF
-      title: Code
-    - icon: fas fa-globe
+      icon: fas fa-file-alt
+    - label: Project
       url: https://temu-vtoff-page.github.io/
-      title: Webpage
+      icon: fas fa-globe
+    - label: Code
+      url: https://github.com/davidelobba/TEMU-VTOFF
+      icon: fab fa-github
 
 - title: "Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation"
-  note: "(oral)"
+  year: 2025
   image: /images/retrieve_demo.png
+  venue: International Joint Conference on Neural Networks (IJCNN), 2025
+  venue_short: IJCNN 2025
+  award: Oral
+  topics: [fashion]
+  bibkey: sanguigni2025fashionrag
+  tldr: >-
+    Retrieval-augmented fashion image editing: garments retrieved from a textual
+    description condition the generation, editing what a person wears.
   authors:
     - name: Fulvio Sanguigni
       url: https://furio1999.github.io
+      me: true
     - name: Davide Morelli
       url: https://scholar.google.it/citations?user=UJ4D3rYAAAAJ&hl=it
     - name: Marcella Cornia
       url: https://scholar.google.it/citations?user=DzgmSJEAAAAJ&hl=it
     - name: Rita Cucchiara
       url: https://scholar.google.it/citations?user=OM3sZEoAAAAJ&hl=it
-  conference: International Joint Conference on Neural Networks (IJCNN), 2025
   links:
-    - icon: fas fa-book
+    - label: Paper
       url: https://arxiv.org/abs/2504.14011
-      title: arXiv
-    - icon: fab fa-github
-      url: https://github.com/furio1999/fashion-rag
-      title: Code
-    - icon: fas fa-globe
+      icon: fas fa-file-alt
+    - label: Project
       url: https://fashion-rag-page.github.io/
-      title: Webpage
+      icon: fas fa-globe
+    - label: Code
+      url: https://github.com/furio1999/fashion-rag
+      icon: fab fa-github
 
-- title: Diffusion Models for Earth Observation Use-cases
-  note: "(oral)"
+- title: "Diffusion Models for Earth Observation Use-cases"
+  year: 2023
   image: /images/slides_cr.png
+  venue: Big Data from Space (BiDS), 2023
+  venue_short: BiDS 2023
+  award: Oral
+  topics: [remote-sensing]
+  bibkey: sanguigni2023diffusion
+  tldr: >-
+    One of the first diffusion-based approaches to image inpainting for remote-sensing
+    imagery, developed at ESA Φ-Lab.
   authors:
     - name: Fulvio Sanguigni
       url: https://furio1999.github.io
+      me: true
     - name: Mikolaj Czerkawski
       url: https://mikonvergence.github.io/
     - name: Lorenzo Papa
@@ -61,12 +148,10 @@
       url: https://sites.google.com/diag.uniroma1.it/ireneamerini
     - name: Bertrand Le Saux
       url: https://blesaux.github.io/
-  conference: Big Data from Space (BiDS), Nov 2023
   links:
-    - icon: fas fa-book
+    - label: Paper
       url: https://arxiv.org/abs/2311.06222
-      title: arXiv
-    - icon: fab fa-github
+      icon: fas fa-file-alt
+    - label: Code
       url: https://github.com/furio1999/EO_Diffusion
-      title: Code
-
+      icon: fab fa-github

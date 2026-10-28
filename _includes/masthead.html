@@ -6,14 +6,22 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/" class="masthead__brand">
+              <span class="masthead__brand-name">{{ site.name }}</span>
+              {% if site.tagline %}<span class="masthead__brand-tag">{{ site.tagline }}</span>{% endif %}
+            </a>
+          </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign active = false %}
+            {% if page.url contains link.url %}{% assign active = true %}{% endif %}
+            {% if link.match and page.url contains link.match %}{% assign active = true %}{% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"{% if active %} class="is-active" aria-current="page"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

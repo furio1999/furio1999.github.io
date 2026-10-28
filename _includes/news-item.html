@@ -1,0 +1,4 @@
+<li{% if include.item.highlight %} class="is-highlight"{% endif %}>
+  <span class="news-date">{{ include.item.date }}</span>
+  <div class="news-body">{{ include.item.content | markdownify | replace: '</p>', '' }}{% if include.item.tag %}<span class="pill{% if include.item.tag == 'Spotlight' or include.item.tag == 'Oral' %} pill--gold{% else %} pill--accent{% endif %}">{{ include.item.tag }}</span>{% endif %}</p></div>
+</li>

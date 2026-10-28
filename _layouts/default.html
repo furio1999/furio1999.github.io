@@ -5,14 +5,14 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js" data-skin="{{ site.skin | default: 'paper' }}">
   <head>
     {% include analytics.html %} 
     {% include head.html %}
     {% include head/custom.html %}
-    <link rel="shortcut icon" type="image/x-icon" href="images/Capricorn.ico">
-    <!-- NEW! Link to css file -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/images/Capricorn.ico' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% include head/design.html %}
   </head>
 
   <body>
@@ -30,6 +30,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    {% if site.skin_switcher %}{% include skin-switcher.html %}{% endif %}
 
   </body>
 </html>

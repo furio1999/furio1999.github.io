@@ -12,6 +12,9 @@ locale                   : "en-US"
 title                    : "Fulvio Sanguigni ~ PhD Student and Athlete"
 title_separator          : "-"
 name                     : &name "Fulvio Sanguigni"
+tagline                  : "PhD · Athlete"
+skin                     : "clean" # site template: "paper" (warm editorial), "clean" (white, academic blue), "track" (dark, sporty)
+substack                 : "https://fulvioaicorner.substack.com"
 description              : &description "personal description"
 url                      : https://furio1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" # OLD https://furio1999.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -137,6 +140,9 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
+  - _config.preview.yml
+  - preview.bat
+  - preview.sh
   - README
   - Rakefile
   - assets/js/_main.js

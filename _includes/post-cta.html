@@ -1,0 +1,8 @@
+{% assign sub = site.data.substack %}
+<aside class="post-cta">
+  <p><strong>Enjoyed this?</strong><br>I write research deep-dives on <a href="{{ sub.url }}">{{ sub.name }}</a>.</p>
+  <div style="display:flex;gap:.5em;flex-wrap:wrap">
+    <a class="btn-chip btn-solid" href="{{ sub.subscribe }}"><i class="fas fa-envelope" aria-hidden="true"></i> Subscribe</a>
+    <a class="btn-chip" href="{{ '/year-archive' | relative_url }}">All posts</a>
+  </div>
+</aside>

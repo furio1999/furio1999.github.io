@@ -1,24 +1,50 @@
-- date: "February 2026"
-  content: |
-    "[TEMU-VTOFF](https://arxiv.org/abs/2505.21062) has been accepted at ICLR 2026🥳! Stay tuned for updated code and arxiv version!"
+# Newest first. Fields:
+#   date:      short label shown on the left ("Oct 2026")
+#   content:   markdown
+#   tag:       optional small badge after the text
+#   highlight: true -> filled dot on the timeline
+# The first 6 items are shown on the home page; the rest go under "Older news".
 
-- date: "June 2025"
-  content: |
-    "Paper published at IJCNN 2025: [Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation](https://arxiv.org/abs/2504.14011) (oral)."
+- date: "Oct 2026"
+  content: >-
+    I am visiting the [Fundamental AI Lab](https://fundamentalailab.github.io/) of
+    [Yuki M. Asano](https://yukimasano.github.io/) at the
+    [University of Technology Nuremberg (UTN)](https://www.utn.de/en/) 🇩🇪
+  tag: "Visiting"
+  highlight: true
+
+- date: "Sep 2026"
+  content: >-
+    [Dress-ED](https://furio1999.github.io/Dress-ED/), the first benchmark for instruction-driven
+    virtual try-on and try-off, is a **spotlight** paper at ECCV 2026 ✨
+  tag: "Spotlight"
+  highlight: true
+
+- date: "Feb 2026"
+  content: >-
+    [TEMU-VTOFF](https://arxiv.org/abs/2505.21062) has been accepted at ICLR 2026 🥳
+    Stay tuned for updated code and arXiv version!
+  highlight: true
+
+- date: "Jun 2025"
+  content: >-
+    [Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation](https://arxiv.org/abs/2504.14011)
+    published at IJCNN 2025 as an oral.
 
 - date: "May 2025"
-  content: |
-    "check our preprint [TEMU-VTOFF](https://arxiv.org/abs/2505.21062)!"
+  content: >-
+    Check out our preprint [TEMU-VTOFF](https://arxiv.org/abs/2505.21062)!
 
-- date: "July 2024"
-  content: |
-    "I am part of the panel for the first workshop on Artificial Intelligence for fashion design ([FashionAI](https://sites.google.com/view/fashionai2024/organization?authuser=2)) at ECCV 2024!"
+- date: "Jul 2024"
+  content: >-
+    I am part of the panel for the first workshop on Artificial Intelligence for fashion design
+    ([FashionAI](https://sites.google.com/view/fashionai2024/organization?authuser=2)) at ECCV 2024!
 
-- date: "June 2024"
-  content: |
-    "Won 2nd best presentation for the project 'Explainability of Negative Posts in Social Media' at National PhD in AI Summer School."
+- date: "Jun 2024"
+  content: >-
+    Won 2nd best presentation for the project *Explainability of Negative Posts in Social Media*
+    at the National PhD in AI Summer School.
 
 - date: "Apr 2024"
-  content: |
-    "The first [blog post](https://furio1999.github.io/posts/2024/03/Phd_Application/) is online!!"
-
+  content: >-
+    The first [blog post](/posts/2024/03/Phd_Application/) is online!

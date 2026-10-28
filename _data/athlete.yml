@@ -1,0 +1,64 @@
+# Athlete results — shown on /athlete. Newest first inside each discipline.
+#   place: short label shown in bold ("1st", "4th", "PB", "34:43")
+#   gold:  true -> highlighted
+#   event: markdown
+#   url:   optional link to official results
+
+disciplines:
+  - name: Duathlon
+    icon: "🏁"
+    team: TD Rimini
+    team_url: https://www.tdsgrimini.it/new/
+    results:
+      - year: 2025
+        place: "1st"
+        gold: true
+        event: "**Italian Champion, Age Group 25–29** — Duathlon Sprint Italian Championships, Imola"
+        url: https://www.fitri.it/it/news/fitri/1159-terzo-piano/20323-podi-e-classifiche-age-group-dei-campionati-italiani-duathlon-sprint-imola-2025.html
+      - year: 2025
+        place: "4th"
+        event: "Overall age-group ranking — Duathlon Sprint Italian Championships, Imola"
+        url: https://www.endu.net/it/events/campionato-italiano-duathon-sprint-assoluto-u23-agegroup-paraduathlon-coppacrono-imola/results
+
+  - name: Road cycling
+    icon: "🚴"
+    team: Team MP Filtri
+    team_url: https://www.teammpfiltri.it/
+    results:
+      - year: 2023
+        place: "4th"
+        event: "National University Championships (CNU), Camerino"
+        url: /files/CLASSIFICA-CNU.pdf
+      - year: 2022
+        place: "7th"
+        event: "Uphill Time Trial “Charly Gaul”, Monte Bondone — UCI Gran Fondo World Championships side event (4th Italian)"
+        url: https://www.endu.net/it/events/cronoscalata-charly-gaul-monte-bondone/results
+
+  - name: Running
+    icon: "🏃"
+    results:
+      - year: 2025
+        place: "15:53"
+        event: "5 km run leg — Duathlon Sprint Italian Championships, Imola"
+        url: https://www.endu.net/it/events/campionato-italiano-duathon-sprint-assoluto-u23-agegroup-paraduathlon-coppacrono-imola/results
+      - year: 2024
+        place: "34:43"
+        event: "10 km run leg — Duathlon Classic Italian Championships, Quinzano"
+        url: https://www.endu.net/it/events/campionato-italiano-duathlon-classico-no-draft-quinzano/results
+      - year: 2022
+        place: "8th"
+        event: "Memorial Fava"
+      - year: 2019
+        place: "1st"
+        gold: true
+        event: "La Pasqualonga — my first victory 🙂"
+      - year: 2019
+        place: "16th"
+        event: "Memorial Fava (8th Italian)"
+
+  - name: Taekwondo
+    icon: "🥋"
+    results:
+      - year: "Youth"
+        place: "1st Dan"
+        event: "**Black belt**, plus several podiums at inter-regional youth competitions"

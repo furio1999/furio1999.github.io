@@ -1,0 +1,26 @@
+# Fulvio AI Corner (Substack) — shown on the Blog page.
+# Add new Substack posts at the top of `posts` (title, date, url, image).
+# The image is the post's cover from Substack (right-click the cover → copy image address).
+
+name: Fulvio AI Corner
+url: https://fulvioaicorner.substack.com
+archive: https://fulvioaicorner.substack.com/archive
+subscribe: https://fulvioaicorner.substack.com/subscribe
+logo: "https://substackcdn.com/image/fetch/$s_!J0jh!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff159f1c7-8bb6-4ebc-a651-617202a14d7a_627x627.jpeg"
+description: Research deep-dives on generative and multimodal AI — currently the “Road to ICLR” series.
+
+posts:
+  - title: "Road to ICLR Episode 3: Adaptive Video Compression"
+    date: 2026-04-20
+    url: https://fulvioaicorner.substack.com/p/road-to-iclr-episode-3-adaptive-video
+    image: "https://substackcdn.com/image/fetch/$s_!1HeM!,w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53b660fd-9d54-4ee3-a9ca-3f8316ce5b6c_2015x950.png"
+
+  - title: "Road to ICLR Episode 2: Drop Your Positional Embeddings"
+    date: 2026-04-15
+    url: https://fulvioaicorner.substack.com/p/drope-drop-your-positional-embeddings
+    image: "https://substackcdn.com/image/fetch/$s_!evje!,w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbba7fb6-c5ee-458e-bd87-ae7c75319f7f_3600x1200.png"
+
+  - title: "Road to ICLR Episode 1: A Universal Upsampler for Vision Encoders"
+    date: 2026-04-10
+    url: https://fulvioaicorner.substack.com/p/road-to-iclr-episode-1-a-universal
+    image: "https://substackcdn.com/image/fetch/$s_!jm7j!,w_320,h_213,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf5f4bb2-b8d0-4660-9b86-6909c6426d67_1980x955.png"

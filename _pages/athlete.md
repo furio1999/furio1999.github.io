@@ -1,164 +1,93 @@
 ---
-layout: archive
+layout: single
+title: "Athlete"
 permalink: /athlete
-author_profile: True # how to have no side column and full image page?
+author_profile: true
 ---
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
+{% comment %}
+  Results live in _data/athlete.yml — add new races there (newest first).
+  Photos are web-sized copies in /images/web/ (originals untouched in /images/).
+{% endcomment %}
 
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-.top-left {
-  position: absolute;
-  top: 40%;
-  left: 30%;
-}
-
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.p1 {
-  font-family: "Brush Script MT", cursive; font-size: 25px;
-}
-
-.collage-row {
-  display: flex;
-  justify-content: space-between;
-  gap: 10px;
-  width: 30%;
-  margin: 0 auto; /* centers the collage horizontally */
-  overflow-x: auto;
-}
-
-.collage-row img {
-  flex: 1;
-  max-width: 100%;
-  height: auto;
-  object-fit: cover;
-  border-radius: 6px;
-}
-
-.slider-container {
-  position: relative;
-  width: 70%;
-  margin: 0 auto;
-  overflow: hidden;
-  border-radius: 6px;
-}
-
-.slider-track {
-  display: flex;
-  transition: transform 0.5s ease;
-}
-
-.slider-track img {
-  width: 100%;
-  flex-shrink: 0;
-  object-fit: cover;
-}
-
-.slider-button {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
-  border: none;
-  font-size: 2rem;
-  padding: 0.5rem;
-  cursor: pointer;
-  z-index: 1;
-}
-
-.slider-button.left {
-  left: 10px;
-}
-
-.slider-button.right {
-  right: 10px;
-}
-</style>
-</head>
-<body>
-
-<!-- originaL style="width:100%; height:50%" -->
-<div class="container">
-  <img src="../images/MonteRomano.jpg" alt="Snow" style="width:70%; height:30%">
-  <div class="top-left"><p class="p1"> Instinct choices,<br>Rationality follows </p></div>
+<div class="ath-hero" style="background-image:url('{{ '/images/web/monteromano.jpg' | relative_url }}')">
+  <div class="ath-hero__text">
+    <p class="ath-hero__quote">Instinct chooses,<br>rationality follows.</p>
+    <p class="ath-hero__sub">Duathlon · Road cycling · Running · Taekwondo</p>
+  </div>
 </div>
 
-</body>
-</html> 
+<div class="stats">
+  <div class="stat stat--accent"><div class="stat__value">🏆 1st</div><div class="stat__label">Italian Champion, AG 25–29<br>Duathlon Sprint 2025</div></div>
+  <div class="stat"><div class="stat__value">34:43</div><div class="stat__label">10 km run leg<br>Duathlon Classic 2024</div></div>
+  <div class="stat"><div class="stat__value">15:53</div><div class="stat__label">5 km run leg<br>Duathlon Sprint 2025</div></div>
+  <div class="stat"><div class="stat__value">1st Dan</div><div class="stat__label">Taekwondo<br>black belt</div></div>
+</div>
+
+<div class="feature">
+  <img src="{{ '/images/web/capione_italiano.jpg' | relative_url }}" alt="Fulvio with the Italian champion medal at Imola" loading="lazy">
+  <div class="feature__body">
+    <p class="eyebrow">Imola · April 2025</p>
+    <h3>Italian Age-Group Champion</h3>
+    <p>Gold in the 25–29 age group at the Duathlon Sprint Italian Championships on the Imola circuit, 4th in the overall age-group ranking — the result of months full of emotions and fear. It deserves its own blog post, coming soon.</p>
+    <a class="btn-chip" href="https://www.fitri.it/it/news/fitri/1159-terzo-piano/20323-podi-e-classifiche-age-group-dei-campionati-italiani-duathlon-sprint-imola-2025.html"><i class="fas fa-list-ol" aria-hidden="true"></i> Official results</a>
+  </div>
+</div>
 
 ## A taekwondoka turned endurance athlete
 
-I started this long sport journey thanks to my swimming classes in my childhood, together with what I consider the first milestone of my life: **my taekwondo learning path**. 
-I joined several tournaments, met a lot of friends and expecially, I started to understand how my body works, and changing my introvert nature. The dark belt (first DAN) is one of the last things of that experience, and I still feel today a strong pride and emotions when I wear it. I will come back one day.
+<p class="lede">It all started with swimming lessons as a child and with what I consider the first milestone of my life: <strong>learning taekwondo</strong>. I joined many tournaments, made a lot of friends and, above all, began to understand how my body works — and to change my introverted nature. The black belt (1st Dan) is one of the last memories of that chapter; I still feel strong pride and emotion when I wear it. I will come back one day.</p>
 
-After two parenthesis in tennis, I started competing again in mountain-bike in 2017-2018, running (2018-present), and road cycling (2021-present). 
-And from 2024 I started duathlons as well. It seems the most promising one, at least for me. I have won a national age-group championship in Imola, on April 2025. This deserves a dedicated blog post, for all the months full of emotions and fear that lead me to that. 
-I think my athletic history is much more behind other areas of my life, even if it seems I train a lot from outside. I do. But it's still a pretty recent thing, and my passions have not yet converged towards a clear goal. For this reason I keep exploring. 
-***My athletic and engineering achievments are not only selfish results, but I want to spread information and consciousness about life as a student-athlete, both for future students and current success stories. I share my story because every path towards excellence is paved of hard lessons learnt, emotions and people. Expecially people***. 
+After two short stints in tennis, I started competing again: mountain biking (2017–2018), running (2018–present) and road cycling (2021–present). In 2024 I added **duathlon**, which looks like the most promising one, at least for me.
 
-<div class="collage-row">
-  <img src="images/Tramonto_Imola.jpg">
-  <img src="images/Pasqualonga.jpg">
-  <img src="images/Imola_run.jpg">
-  <img src="images/sguardo.jpg">
+My athletic history is much younger than the other parts of my life — even if, from the outside, it looks like I train a lot. I do. But my passions have not yet converged on one clear goal, so I keep exploring.
+
+<div class="pullquote">My athletic and engineering achievements are not only selfish results: I want to spread awareness about life as a student-athlete, for future students and for current success stories. Every path towards excellence is paved with hard lessons, emotions and people. Especially people.</div>
+
+## Results
+
+{% for d in site.data.athlete.disciplines %}
+<div class="discipline">
+  <div class="discipline__icon" aria-hidden="true">{{ d.icon }}</div>
+  <div>
+    <div class="discipline__head">
+      <h3>{{ d.name }}</h3>
+      {% if d.team %}<span class="team">{% if d.team_url %}<a href="{{ d.team_url }}">{{ d.team }}</a>{% else %}{{ d.team }}{% endif %}</span>{% endif %}
+    </div>
+    <ul class="results">
+      {% for r in d.results %}
+      <li>
+        <span class="yr">{{ r.year }}</span>
+        <span class="place{% if r.gold %} gold{% endif %}">{{ r.place }}</span>
+        <span class="what">{{ r.event | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if r.url %} <a href="{{ r.url }}">results ↗</a>{% endif %}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endfor %}
+
+## On the race course
+
+<div class="gallery">
+  <figure class="wide"><img src="{{ '/images/web/imola_25_arrivo.jpg' | relative_url }}" alt="Finish line at the 2025 Duathlon Italian Championships, Imola" loading="lazy"><figcaption>Imola 2025 · finish line</figcaption></figure>
+  <figure><img src="{{ '/images/web/imola_run.jpg' | relative_url }}" alt="Running at Imola" loading="lazy"><figcaption>Imola</figcaption></figure>
+  <figure><img src="{{ '/images/web/sguardo.jpg' | relative_url }}" alt="Racing on the bike" loading="lazy"></figure>
+  <figure class="wide"><img src="{{ '/images/web/gorga_2022_partenza.jpg' | relative_url }}" alt="Race start, Gorga 2022" loading="lazy"><figcaption>Gorga 2022</figcaption></figure>
+  <figure class="wide"><img src="{{ '/images/web/pasqualonga.jpg' | relative_url }}" alt="Winning La Pasqualonga, 2019" loading="lazy"><figcaption>La Pasqualonga 2019 · first win</figcaption></figure>
 </div>
 
-Aside from that, I think sport is also about exploration, other than competition. And biking around really helps me connecting more with the territory I live in.
+## Exploring by bike
 
-<div class="collage-row">
-  <img src="images/TDS.jpg">
-  <img src="images/Pordoi.jpg">
-  <img src="images/Sasso_Marconi.jpg">
-  <img src="images/Corvara.jpg">
+Sport is also about exploration, not only competition. Riding around helps me connect with the places I live in.
+
+<div class="gallery">
+  <figure class="wide"><img src="{{ '/images/web/tds.jpg' | relative_url }}" alt="Climbing an alpine road in Switzerland" loading="lazy"><figcaption>Switzerland</figcaption></figure>
+  <figure><img src="{{ '/images/web/pordoi.jpg' | relative_url }}" alt="At Passo Pordoi" loading="lazy"><figcaption>Passo Pordoi</figcaption></figure>
+  <figure><img src="{{ '/images/web/corvara.jpg' | relative_url }}" alt="Bike near Corvara" loading="lazy"><figcaption>Corvara</figcaption></figure>
+  <figure><img src="{{ '/images/web/pordoi_bici.jpg' | relative_url }}" alt="Bike in the Dolomites" loading="lazy"><figcaption>Dolomites</figcaption></figure>
+  <figure><img src="{{ '/images/web/serramazzoni.jpg' | relative_url }}" alt="Snow at Serramazzoni" loading="lazy"><figcaption>Serramazzoni</figcaption></figure>
+  <figure class="wide"><img src="{{ '/images/web/sasso_marconi.jpg' | relative_url }}" alt="Road signs to Sasso Marconi" loading="lazy"><figcaption>Sasso Marconi</figcaption></figure>
 </div>
 
-## My results highlights
-
-🚴‍♂️Road Cycling: competing for an amatorial Italian cycling team ([Team MP Filtri](https://www.teammpfiltri.it/)). 
-- **4th** at National University Championships (CNU), Camerino, 2023. [official results](/files/CLASSIFICA-CNU.pdf)
-- **7th (4th Italian)**  UCI Granfondo World Championships (side event), Uphill Time Trial "Charly Gaul", Monte Bondone, Trento, 2022. [results](https://www.endu.net/it/events/cronoscalata-charly-gaul-monte-bondone/results)
-
-🏃‍♂️Road Runner:
-- Memorial Fava: 8th (2022), 16th (8th Italian) (2019) + won a small local race, La Pasqualonga, in 2019🙂. My first victory.
-- 10 km time: **34:43**, Duathlon Classic Italian Championships 2024 ([results](https://www.endu.net/it/events/campionato-italiano-duathlon-classico-no-draft-quinzano/results))
-- 5km time: **15:53**, Duathlon Sprint Italian Championships 2025 ([time](https://www.endu.net/it/events/campionato-italiano-duathon-sprint-assoluto-u23-agegroup-paraduathlon-coppacrono-imola/results))
-
-🥋Taekwondo: **black belt** + several podiums at inter-regional youth competitions
-
-Triathlon 🏊‍♂️‍➡️🚴‍♂️➡️🏃‍♂️ ([TD Rimini](https://www.tdsgrimini.it/new/)): 
-- **4th** at Duathlon Sprint Italian Championships (Age Group) Imola, 2025 + **Italian champion Age Group 25-29** ([results](https://www.fitri.it/it/news/fitri/1159-terzo-piano/20323-podi-e-classifiche-age-group-dei-campionati-italiani-duathlon-sprint-imola-2025.html))
-
-
-
+<p style="margin-top:1.6em"><a class="btn-chip" href="https://www.strava.com/athletes/{{ site.author.strava }}"><i class="fab fa-strava" aria-hidden="true"></i> Follow on Strava</a></p>

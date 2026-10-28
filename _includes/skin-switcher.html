@@ -1,0 +1,26 @@
+<!-- Preview-only template switcher. Enabled by `skin_switcher: true` (set in _config.preview.yml, never in production). -->
+<div class="skin-switcher" role="group" aria-label="Template">
+  <span>Template</span>
+  <button type="button" data-skin="paper">Paper</button>
+  <button type="button" data-skin="clean">Clean</button>
+  <button type="button" data-skin="track">Track</button>
+</div>
+<script>
+  (function () {
+    var root = document.documentElement;
+    var btns = document.querySelectorAll('.skin-switcher button');
+    function sync() {
+      var cur = root.getAttribute('data-skin');
+      for (var i = 0; i < btns.length; i++) btns[i].setAttribute('aria-pressed', btns[i].getAttribute('data-skin') === cur ? 'true' : 'false');
+    }
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener('click', function () {
+        var s = this.getAttribute('data-skin');
+        root.setAttribute('data-skin', s);
+        try { localStorage.setItem('fs-skin', s); } catch (e) {}
+        sync();
+      });
+    }
+    sync();
+  })();
+</script>

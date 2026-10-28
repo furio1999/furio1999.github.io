@@ -1,22 +1,62 @@
 ---
-layout: archive
+layout: single
 permalink: /year-archive
-title: "Blog posts"
+title: "Blog"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
-<!-- Getting rid of the permalink and changing to site.posts
-instead of paginator.posts actually fixed the problem. Thank you very much! -->
-
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
+{% assign sub = site.data.substack %}
+
+<p class="blog-intro">Research deep-dives live on my Substack; longer personal stories about the PhD and sport live here.</p>
+
+<section class="substack" aria-labelledby="substack-title">
+  <div class="substack__head">
+    <img class="substack__logo" src="{{ sub.logo }}" alt="" loading="lazy">
+    <div>
+      <p class="eyebrow" style="margin:0 0 .2em">On Substack</p>
+      <h2 class="substack__name" id="substack-title">{{ sub.name }}</h2>
+      <p class="substack__desc">{{ sub.description }}</p>
+    </div>
+  </div>
+  <div class="substack__posts">
+    {% for p in sub.posts limit: 3 %}
+    <a class="sub-post" href="{{ p.url }}">
+      <img src="{{ p.image }}" alt="" loading="lazy">
+      <div class="sub-post__body">
+        <div class="sub-post__date">{{ p.date | date: "%b %-d, %Y" }}</div>
+        <div class="sub-post__title">{{ p.title }}</div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <div class="substack__actions">
+    <a class="btn-chip btn-solid" href="{{ sub.subscribe }}"><i class="fas fa-envelope" aria-hidden="true"></i> Subscribe</a>
+    <a class="btn-chip" href="{{ sub.archive }}">Full archive →</a>
+  </div>
+</section>
+
+<div class="section-head">
+  <h2>On this site</h2>
+  <a href="{{ base_path }}/feed.xml"><i class="fas fa-rss" aria-hidden="true"></i> RSS</a>
+</div>
+
+<div class="post-list">
 {% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
+  {% assign words = post.content | strip_html | number_of_words %}
+  {% assign minutes = words | divided_by: site.words_per_minute %}{% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
+  <a class="post-card" href="{{ base_path }}{{ post.url }}">
+    <div class="post-card__meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+      <span>· {{ minutes }} min read</span>
+    </div>
+    <h3 class="post-card__title">{{ post.title }}</h3>
+    <p class="post-card__excerpt">{{ post.excerpt | strip_html | truncatewords: 42 }}</p>
+    {% if post.tags.size > 0 %}
+    <div class="post-card__tags">{% for t in post.tags %}<span class="pill">{{ t }}</span>{% endfor %}</div>
+    {% endif %}
+  </a>
 {% endfor %}
+</div>
